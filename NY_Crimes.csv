@@ -1,0 +1,1736 @@
+county,agency,year,months_reported,_id,total_crime
+Albany,Albany City PD,2019,12,6085dbe24d36b6325a4036bf,7322
+Albany,Albany County Park PD,2019,12,6085dbe24d36b6325a4036c0,4
+Albany,Albany County Sheriff,2019,12,6085dbe24d36b6325a4036c1,296
+Albany,Albany County State Police,2019,12,6085dbe24d36b6325a4036c2,300
+Albany,Altamont Vg PD,2019,12,6085dbe24d36b6325a4036c3,10
+Albany,Bethlehem Town PD,2019,12,6085dbe24d36b6325a4036c4,934
+Albany,Coeymans Town PD,2019,12,6085dbe24d36b6325a4036c5,176
+Albany,Cohoes City PD,2019,12,6085dbe24d36b6325a4036c6,380
+Albany,Colonie Town PD,2019,12,6085dbe24d36b6325a4036c7,3864
+Albany,Green Island Vg PD,2019,9,6085dbe24d36b6325a4036c9,56
+Albany,Guilderland Town PD,2019,12,6085dbe24d36b6325a4036ca,1736
+Albany,Menands Vg PD,2019,12,6085dbe24d36b6325a4036cb,192
+Albany,SUNY Police - Albany,2019,12,6085dbe24d36b6325a4036cc,282
+Albany,SUNY Police - Nanoscale Science and Engineering,2019,12,6085dbe24d36b6325a4036cd,14
+Albany,Watervliet City PD,2019,12,6085dbe24d36b6325a4036ce,484
+Allegany,Alfred Vg PD,2019,12,6085dbe24d36b6325a4036cf,48
+Allegany,Allegany County Sheriff,2019,12,6085dbe24d36b6325a4036d0,20
+Allegany,Allegany County State Police,2019,12,6085dbe24d36b6325a4036d1,578
+Allegany,Belmont Vg PD,2019,12,6085dbe24d36b6325a4036d2,6
+Allegany,Bolivar Vg PD,2019,12,6085dbe24d36b6325a4036d3,8
+Allegany,Cuba Town PD,2019,12,6085dbe24d36b6325a4036d5,56
+Allegany,Friendship Town PD,2019,12,6085dbe24d36b6325a4036d6,16
+Allegany,Independence Town PD,2019,12,6085dbe24d36b6325a4036d7,12
+Allegany,SUNY Police - Alfred,2019,12,6085dbe24d36b6325a4036d8,84
+Allegany,Wellsville Vg PD,2019,12,6085dbe24d36b6325a4036d9,84
+Bronx,County Total,2019,12,6085dbe24d36b6325a4036da,70510
+Broome,Binghamton City PD,2019,12,6085dbe24d36b6325a4036db,4520
+Broome,Broome County Park PD,2019,12,6085dbe24d36b6325a4036dc,10
+Broome,Broome County Sheriff,2019,12,6085dbe24d36b6325a4036dd,1072
+Broome,Broome County State Police,2019,12,6085dbe24d36b6325a4036de,888
+Broome,Deposit Vg PD,2019,12,6085dbe24d36b6325a4036e0,22
+Broome,Endicott Vg PD,2019,12,6085dbe24d36b6325a4036e1,904
+Broome,Johnson City Vg PD,2019,12,6085dbe24d36b6325a4036e2,1654
+Broome,Port Dickinson Vg PD,2019,1,6085dbe24d36b6325a4036e3,2
+Broome,SUNY Police - Binghamton,2019,12,6085dbe24d36b6325a4036e4,326
+Broome,Vestal Town PD,2019,12,6085dbe24d36b6325a4036e5,940
+Cattaraugus,Allegany Vg PD,2019,12,6085dbe24d36b6325a4036e6,20
+Cattaraugus,Cattaraugus County Park PD,2019,12,6085dbe24d36b6325a4036e7,18
+Cattaraugus,Cattaraugus County Sheriff,2019,12,6085dbe24d36b6325a4036e8,502
+Cattaraugus,Cattaraugus County State Police,2019,12,6085dbe24d36b6325a4036e9,426
+Cattaraugus,Ellicottville Town PD,2019,12,6085dbe24d36b6325a4036eb,20
+Cattaraugus,Franklinville Vg PD,2019,12,6085dbe24d36b6325a4036ec,4
+Cattaraugus,Olean City PD,2019,12,6085dbe24d36b6325a4036ed,710
+Cattaraugus,Salamanca City PD,2019,12,6085dbe24d36b6325a4036ee,156
+Cayuga,Auburn City PD,2019,12,6085dbe24d36b6325a4036ef,1720
+Cayuga,Cayuga County Park PD,2019,12,6085dbe24d36b6325a4036f0,6
+Cayuga,Cayuga County Sheriff,2019,12,6085dbe24d36b6325a4036f1,210
+Cayuga,Cayuga County State Police,2019,12,6085dbe24d36b6325a4036f2,438
+Cayuga,Moravia Vg PD,2019,12,6085dbe24d36b6325a4036f4,22
+Cayuga,Weedsport Vg PD,2019,12,6085dbe24d36b6325a4036f5,28
+Chautauqua,Carroll Town PD,2019,12,6085dbe24d36b6325a4036f6,38
+Chautauqua,Chautauqua County Sheriff,2019,12,6085dbe24d36b6325a4036f7,922
+Chautauqua,Chautauqua County State Police,2019,12,6085dbe24d36b6325a4036f8,336
+Chautauqua,Dunkirk City PD,2019,12,6085dbe24d36b6325a4036fa,462
+Chautauqua,Ellicott Town PD,2019,12,6085dbe24d36b6325a4036fb,508
+Chautauqua,Fredonia Vg PD,2019,12,6085dbe24d36b6325a4036fc,418
+Chautauqua,Jamestown City PD,2019,12,6085dbe24d36b6325a4036fd,2126
+Chautauqua,Lakewood-Busti PD,2019,12,6085dbe24d36b6325a4036fe,674
+Chautauqua,SUNY Police - Fredonia,2019,12,6085dbe24d36b6325a4036ff,82
+Chautauqua,Westfield Vg PD,2019,12,6085dbe24d36b6325a403700,22
+Chemung,Chemung County Sheriff,2019,12,6085dbe24d36b6325a403701,460
+Chemung,Chemung County State Police,2019,12,6085dbe24d36b6325a403702,590
+Chemung,Elmira City PD,2019,12,6085dbe24d36b6325a403704,1828
+Chemung,Elmira Heights Vg PD,2019,12,6085dbe24d36b6325a403705,154
+Chemung,Elmira Town PD,2019,12,6085dbe24d36b6325a403706,4
+Chemung,Horseheads Vg PD,2019,12,6085dbe24d36b6325a403707,210
+Chenango,Bainbridge Vg PD,2019,9,6085dbe24d36b6325a403708,6
+Chenango,Chenango County Sheriff,2019,12,6085dbe24d36b6325a403709,614
+Chenango,Chenango County State Police,2019,12,6085dbe24d36b6325a40370a,410
+Chenango,Greene Vg PD,2019,12,6085dbe24d36b6325a40370c,44
+Chenango,New Berlin Town PD,2019,12,6085dbe24d36b6325a40370d,30
+Chenango,Norwich City PD,2019,12,6085dbe24d36b6325a40370e,434
+Chenango,Oxford Vg PD,2019,12,6085dbe24d36b6325a40370f,4
+Chenango,Sherburne Vg PD,2019,12,6085dbe24d36b6325a403710,26
+Clinton,Clinton County Park PD,2019,12,6085dbe24d36b6325a403711,26
+Clinton,Clinton County Sheriff,2019,12,6085dbe24d36b6325a403712,90
+Clinton,Clinton County State Police,2019,12,6085dbe24d36b6325a403713,1548
+Clinton,Plattsburgh City PD,2019,12,6085dbe24d36b6325a403715,560
+Clinton,SUNY Police - Plattsburgh,2019,12,6085dbe24d36b6325a403716,116
+Columbia,Chatham Vg PD,2019,12,6085dbe24d36b6325a403717,6
+Columbia,Columbia County Park PD,2019,12,6085dbe24d36b6325a403718,6
+Columbia,Columbia County Sheriff,2019,12,6085dbe24d36b6325a403719,562
+Columbia,Columbia County State Police,2019,12,6085dbe24d36b6325a40371a,436
+Columbia,Greenport Town PD,2019,12,6085dbe24d36b6325a40371c,112
+Columbia,Hudson City PD,2019,12,6085dbe24d36b6325a40371d,300
+Columbia,Philmont Vg PD,2019,12,6085dbe24d36b6325a40371e,6
+Cortland,Cortland City PD,2019,12,6085dbe24d36b6325a40371f,760
+Cortland,Cortland County Sheriff,2019,12,6085dbe24d36b6325a403720,378
+Cortland,Cortland County State Police,2019,12,6085dbe24d36b6325a403721,256
+Cortland,Homer Vg PD,2019,12,6085dbe24d36b6325a403723,6
+Cortland,SUNY Police - Cortland,2019,12,6085dbe24d36b6325a403724,80
+Delaware,Colchester Town PD,2019,12,6085dbe24d36b6325a403725,40
+Delaware,Delaware County Sheriff,2019,12,6085dbe24d36b6325a403727,350
+Delaware,Delaware County State Police,2019,12,6085dbe24d36b6325a403728,316
+Delaware,Delhi Vg PD,2019,12,6085dbe24d36b6325a403729,56
+Delaware,Hancock Vg PD,2019,12,6085dbe24d36b6325a40372a,14
+Delaware,NYC-DEPP - Beerston PCT,2019,12,6085dbe24d36b6325a40372b,8
+Delaware,Sidney Vg PD,2019,12,6085dbe24d36b6325a40372c,270
+Delaware,SUNY Police - Delhi,2019,12,6085dbe24d36b6325a40372d,46
+Dutchess,Beacon City PD,2019,12,6085dbe24d36b6325a40372e,348
+Dutchess,Dutchess County MTA,2019,12,6085dbe24d36b6325a403730,28
+Dutchess,Dutchess County Park PD,2019,12,6085dbe24d36b6325a403731,14
+Dutchess,Dutchess County Sheriff,2019,12,6085dbe24d36b6325a403732,784
+Dutchess,Dutchess County State Police,2019,12,6085dbe24d36b6325a403733,1152
+Dutchess,East Fishkill Town PD,2019,12,6085dbe24d36b6325a403734,298
+Dutchess,Fishkill Town PD,2019,12,6085dbe24d36b6325a403735,396
+Dutchess,Fishkill Vg PD,2019,12,6085dbe24d36b6325a403736,42
+Dutchess,Hyde Park Town PD,2019,12,6085dbe24d36b6325a403737,176
+Dutchess,Millerton Vg PD,2019,12,6085dbe24d36b6325a403738,20
+Dutchess,Poughkeepsie City PD,2019,12,6085dbe24d36b6325a403739,1502
+Dutchess,Poughkeepsie Town PD,2019,12,6085dbe24d36b6325a40373a,2124
+Dutchess,Red Hook Vg PD,2019,12,6085dbe24d36b6325a40373b,78
+Dutchess,Rhinebeck Vg PD,2019,12,6085dbe24d36b6325a40373c,44
+Dutchess,Wappingers Falls Vg PD,2019,12,6085dbe24d36b6325a40373d,92
+Erie,Akron Vg PD,2019,12,6085dbe24d36b6325a40373e,12
+Erie,Amherst Town PD,2019,12,6085dbe24d36b6325a40373f,3962
+Erie,Blasdell Vg PD,2019,12,6085dbe24d36b6325a403740,88
+Erie,Brant Town PD,2019,12,6085dbe24d36b6325a403741,10
+Erie,Buffalo City PD,2019,12,6085dbe24d36b6325a403742,21656
+Erie,Cheektowaga Town PD,2019,12,6085dbe24d36b6325a403743,4682
+Erie,Depew Vg PD,2019,12,6085dbe24d36b6325a403745,416
+Erie,East Aurora-Town Of Aurora PD,2019,12,6085dbe24d36b6325a403746,138
+Erie,Eden Town PD,2019,12,6085dbe24d36b6325a403747,76
+Erie,Erie County Park PD,2019,12,6085dbe24d36b6325a403748,18
+Erie,Erie County Sheriff,2019,12,6085dbe24d36b6325a403749,1110
+Erie,Erie County State Police,2019,12,6085dbe24d36b6325a40374a,598
+Erie,Evans Town PD,2019,12,6085dbe24d36b6325a40374b,382
+Erie,Gowanda Vg PD,2019,12,6085dbe24d36b6325a40374c,60
+Erie,Hamburg Town PD,2019,12,6085dbe24d36b6325a40374d,1570
+Erie,Hamburg Vg PD,2019,12,6085dbe24d36b6325a40374e,156
+Erie,Kenmore Vg PD,2019,12,6085dbe24d36b6325a40374f,372
+Erie,Lackawanna City PD,2019,12,6085dbe24d36b6325a403750,918
+Erie,Lancaster Town PD,2019,12,6085dbe24d36b6325a403751,838
+Erie,Orchard Park Town PD,2019,12,6085dbe24d36b6325a403752,738
+Erie,SUNY Police - Buffalo,2019,12,6085dbe24d36b6325a403753,440
+Erie,SUNY Police - Buffalo State College,2019,12,6085dbe24d36b6325a403754,258
+Erie,Tonawanda City PD,2019,12,6085dbe24d36b6325a403755,452
+Erie,Tonawanda Town PD,2019,12,6085dbe24d36b6325a403756,1616
+Erie,West Seneca Town PD,2019,12,6085dbe24d36b6325a403757,1336
+Essex,Essex County Sheriff,2019,12,6085dbe24d36b6325a403759,12
+Essex,Essex County State Police,2019,12,6085dbe24d36b6325a40375a,516
+Essex,Lake Placid Vg PD,2019,12,6085dbe24d36b6325a40375b,44
+Essex,Moriah Town PD,2019,12,6085dbe24d36b6325a40375c,4
+Essex,Ticonderoga Town PD,2019,12,6085dbe24d36b6325a40375d,82
+Franklin,Franklin County State Police,2019,12,6085dbe24d36b6325a40375f,546
+Franklin,Malone Vg PD,2019,12,6085dbe24d36b6325a403760,250
+Franklin,Saranac Lake Vg PD,2019,12,6085dbe24d36b6325a403761,78
+Franklin,Tupper Lake Vg PD,2019,12,6085dbe24d36b6325a403762,130
+Fulton,Fulton County Sheriff,2019,12,6085dbe24d36b6325a403764,620
+Fulton,Fulton County State Police,2019,12,6085dbe24d36b6325a403765,166
+Fulton,Gloversville City PD,2019,12,6085dbe24d36b6325a403766,934
+Fulton,Johnstown City PD,2019,12,6085dbe24d36b6325a403767,302
+Genesee,Batavia City PD,2019,12,6085dbe24d36b6325a403768,972
+Genesee,Genesee County Park PD,2019,12,6085dbe24d36b6325a40376a,2
+Genesee,Genesee County Sheriff,2019,12,6085dbe24d36b6325a40376b,694
+Genesee,Genesee County State Police,2019,12,6085dbe24d36b6325a40376c,252
+Genesee,LeRoy Vg PD,2019,12,6085dbe24d36b6325a40376d,108
+Greene,Cairo Town PD,2019,12,6085dbe24d36b6325a40376e,62
+Greene,Catskill Vg PD,2019,12,6085dbe24d36b6325a40376f,156
+Greene,Coxsackie Vg PD,2019,12,6085dbe24d36b6325a403771,2
+Greene,Durham Town PD,2019,12,6085dbe24d36b6325a403772,6
+Greene,Greene County Sheriff,2019,12,6085dbe24d36b6325a403773,78
+Greene,Greene County State Police,2019,12,6085dbe24d36b6325a403774,830
+Greene,Hunter Town PD,2019,12,6085dbe24d36b6325a403775,30
+Greene,Windham Town PD,2019,12,6085dbe24d36b6325a403776,14
+Hamilton,Hamilton County Sheriff,2019,12,6085dbe24d36b6325a403778,14
+Hamilton,Hamilton County State Police,2019,12,6085dbe24d36b6325a403779,42
+Hamilton,Inlet Town PD,2019,12,6085dbe24d36b6325a40377a,2
+Herkimer,Dolgeville Vg PD,2019,12,6085dbe24d36b6325a40377c,16
+Herkimer,Frankfort Town PD,2019,12,6085dbe24d36b6325a40377d,46
+Herkimer,Frankfort Vg PD,2019,12,6085dbe24d36b6325a40377e,36
+Herkimer,Herkimer County Sheriff,2019,12,6085dbe24d36b6325a40377f,2
+Herkimer,Herkimer County State Police,2019,12,6085dbe24d36b6325a403780,410
+Herkimer,Herkimer Vg PD,2019,12,6085dbe24d36b6325a403781,484
+Herkimer,Ilion Vg PD,2019,12,6085dbe24d36b6325a403782,402
+Herkimer,Little Falls City PD,2019,12,6085dbe24d36b6325a403783,108
+Herkimer,Mohawk Vg PD,2019,12,6085dbe24d36b6325a403784,54
+Herkimer,Webb Town PD,2019,12,6085dbe24d36b6325a403785,8
+Jefferson,Alexandria Bay Vg PD,2019,12,6085dbe24d36b6325a403786,16
+Jefferson,Black River Vg PD,2019,12,6085dbe24d36b6325a403787,16
+Jefferson,Brownville Vg PD,2019,12,6085dbe24d36b6325a403788,2
+Jefferson,Carthage Vg PD,2019,12,6085dbe24d36b6325a403789,92
+Jefferson,Clayton Vg PD,2019,12,6085dbe24d36b6325a40378a,24
+Jefferson,Dexter Vg PD,2019,12,6085dbe24d36b6325a40378c,2
+Jefferson,Jefferson County Park PD,2019,12,6085dbe24d36b6325a40378d,8
+Jefferson,Jefferson County Sheriff,2019,12,6085dbe24d36b6325a40378e,516
+Jefferson,Jefferson County State Police,2019,12,6085dbe24d36b6325a40378f,964
+Jefferson,Watertown City PD,2019,12,6085dbe24d36b6325a403790,2082
+Jefferson,West Carthage Vg PD,2019,12,6085dbe24d36b6325a403791,22
+Kings,County Total,2019,12,6085dbe24d36b6325a403792,95470
+Lewis,Lewis County Sheriff,2019,12,6085dbe24d36b6325a403794,132
+Lewis,Lewis County State Police,2019,12,6085dbe24d36b6325a403795,150
+Lewis,Lowville Vg PD,2019,12,6085dbe24d36b6325a403796,38
+Livingston,Dansville Vg PD,2019,12,6085dbe24d36b6325a403798,106
+Livingston,Geneseo Vg PD,2019,12,6085dbe24d36b6325a403799,172
+Livingston,Livingston County Park PD,2019,12,6085dbe24d36b6325a40379a,4
+Livingston,Livingston County Sheriff,2019,12,6085dbe24d36b6325a40379b,630
+Livingston,Livingston County State Police,2019,12,6085dbe24d36b6325a40379c,70
+Livingston,Mount Morris Vg PD,2019,12,6085dbe24d36b6325a40379d,136
+Livingston,SUNY Police - Geneseo,2019,12,6085dbe24d36b6325a40379e,80
+Madison,Canastota Vg PD,2019,12,6085dbe24d36b6325a40379f,82
+Madison,Cazenovia Vg PD,2019,12,6085dbe24d36b6325a4037a0,40
+Madison,Chittenango Vg PD,2019,12,6085dbe24d36b6325a4037a1,40
+Madison,Hamilton Vg PD,2019,12,6085dbe24d36b6325a4037a3,6
+Madison,Madison County Park PD,2019,12,6085dbe24d36b6325a4037a4,2
+Madison,Madison County Sheriff,2019,12,6085dbe24d36b6325a4037a5,216
+Madison,Madison County State Police,2019,12,6085dbe24d36b6325a4037a6,368
+Madison,Oneida City PD,2019,12,6085dbe24d36b6325a4037a7,828
+Madison,SUNY Police - Morrisville,2019,12,6085dbe24d36b6325a4037a8,86
+Monroe,Brighton Town PD,2019,10,6085dbe24d36b6325a4037a9,1286
+Monroe,Brockport Vg PD,2019,12,6085dbe24d36b6325a4037aa,138
+Monroe,East Rochester Vg PD,2019,12,6085dbe24d36b6325a4037ac,150
+Monroe,Fairport Vg PD,2019,12,6085dbe24d36b6325a4037ad,52
+Monroe,Gates Town PD,2019,12,6085dbe24d36b6325a4037ae,1668
+Monroe,Greece Town PD,2019,12,6085dbe24d36b6325a4037af,4028
+Monroe,Irondequoit Town PD,2019,6,6085dbe24d36b6325a4037b0,898
+Monroe,Monroe County Park PD,2019,12,6085dbe24d36b6325a4037b1,6
+Monroe,Monroe County Sheriff,2019,12,6085dbe24d36b6325a4037b2,5116
+Monroe,Monroe County State Police,2019,12,6085dbe24d36b6325a4037b3,262
+Monroe,Ogden Town PD,2019,12,6085dbe24d36b6325a4037b4,304
+Monroe,Rochester City PD,2019,12,6085dbe24d36b6325a4037b5,17372
+Monroe,SUNY Police - Brockport,2019,12,6085dbe24d36b6325a4037b6,98
+Monroe,Webster Town and Vg PD,2019,12,6085dbe24d36b6325a4037b7,626
+Montgomery,Amsterdam City PD,2019,12,6085dbe24d36b6325a4037b8,524
+Montgomery,Canajoharie Vg PD,2019,12,6085dbe24d36b6325a4037b9,34
+Montgomery,Fort Plain Vg PD,2019,12,6085dbe24d36b6325a4037bb,124
+Montgomery,Montgomery County Sheriff,2019,12,6085dbe24d36b6325a4037bc,436
+Montgomery,Montgomery County State Police,2019,12,6085dbe24d36b6325a4037bd,210
+Montgomery,St Johnsville Vg PD,2019,12,6085dbe24d36b6325a4037be,46
+Nassau,Centre Island Vg PD,2019,12,6085dbe24d36b6325a4037bf,2
+Nassau,Floral Park Vg PD,2019,12,6085dbe24d36b6325a4037c1,68
+Nassau,Freeport Vg PD,2019,12,6085dbe24d36b6325a4037c2,1000
+Nassau,Garden City Vg PD,2019,12,6085dbe24d36b6325a4037c3,552
+Nassau,Glen Cove City PD,2019,12,6085dbe24d36b6325a4037c4,178
+Nassau,Great Neck Estates Vg PD,2019,12,6085dbe24d36b6325a4037c5,24
+Nassau,Hempstead Vg PD,2019,12,6085dbe24d36b6325a4037c6,1752
+Nassau,Kensington Vg PD,2019,12,6085dbe24d36b6325a4037c7,10
+Nassau,Kings Point Vg PD,2019,12,6085dbe24d36b6325a4037c8,52
+Nassau,Lake Success Vg PD,2019,12,6085dbe24d36b6325a4037c9,32
+Nassau,Long Beach City PD,2019,12,6085dbe24d36b6325a4037ca,172
+Nassau,Lynbrook Vg PD,2019,12,6085dbe24d36b6325a4037cb,218
+Nassau,Malverne Vg PD,2019,12,6085dbe24d36b6325a4037cc,24
+Nassau,Nassau County MTA,2019,12,6085dbe24d36b6325a4037cd,78
+Nassau,Nassau County Park PD,2019,12,6085dbe24d36b6325a4037ce,46
+Nassau,Nassau County PD,2019,12,6085dbe24d36b6325a4037cf,21668
+Nassau,Nassau County State Police,2019,12,6085dbe24d36b6325a4037d0,30
+Nassau,Old Brookville Vg PD,2019,12,6085dbe24d36b6325a4037d1,92
+Nassau,Old Westbury Vg PD,2019,12,6085dbe24d36b6325a4037d2,96
+Nassau,Oyster Bay Cove Vg PD,2019,12,6085dbe24d36b6325a4037d3,16
+Nassau,Port Washington Police District,2019,12,6085dbe24d36b6325a4037d4,194
+Nassau,Rockville Centre Vg PD,2019,12,6085dbe24d36b6325a4037d5,370
+Nassau,Sands Point Vg PD,2019,12,6085dbe24d36b6325a4037d6,60
+New York,County Total,2019,12,6085dbe24d36b6325a4037d7,99716
+Niagara,Lewiston Town PD,2019,12,6085dbe24d36b6325a4037d9,182
+Niagara,Middleport Vg PD,2019,12,6085dbe24d36b6325a4037da,22
+Niagara,Niagara County Park PD,2019,12,6085dbe24d36b6325a4037db,68
+Niagara,Niagara County Sheriff,2019,12,6085dbe24d36b6325a4037dc,1062
+Niagara,Niagara County State Police,2019,12,6085dbe24d36b6325a4037dd,448
+Niagara,Niagara Falls City PD,2019,12,6085dbe24d36b6325a4037de,4560
+Niagara,Niagara Town PD,2019,12,6085dbe24d36b6325a4037df,436
+Niagara,North Tonawanda City PD,2019,12,6085dbe24d36b6325a4037e0,786
+Niagara,Youngstown Vg PD,2019,12,6085dbe24d36b6325a4037e1,6
+Oneida,Boonville Vg PD,2019,12,6085dbe24d36b6325a4037e2,24
+Oneida,Camden Vg PD,2019,12,6085dbe24d36b6325a4037e3,48
+Oneida,Kirkland Town PD,2019,12,6085dbe24d36b6325a4037e5,8
+Oneida,New Hartford Town and Vg PD,2019,12,6085dbe24d36b6325a4037e6,1328
+Oneida,New York Mills Vg PD,2019,12,6085dbe24d36b6325a4037e7,78
+Oneida,Oneida County Park PD,2019,12,6085dbe24d36b6325a4037e8,8
+Oneida,Oneida County Sheriff,2019,12,6085dbe24d36b6325a4037e9,768
+Oneida,Oneida County State Police,2019,12,6085dbe24d36b6325a4037ea,834
+Oneida,Oriskany Vg PD,2019,12,6085dbe24d36b6325a4037eb,20
+Oneida,Rome City PD,2019,12,6085dbe24d36b6325a4037ec,1156
+Oneida,Sherrill City PD,2019,12,6085dbe24d36b6325a4037ed,12
+Oneida,SUNY Police - Polytechnic Institute,2019,12,6085dbe24d36b6325a4037ee,14
+Oneida,Utica City PD,2019,12,6085dbe24d36b6325a4037ef,4724
+Oneida,Vernon Vg PD,2019,12,6085dbe24d36b6325a4037f0,12
+Oneida,Whitesboro Vg PD,2019,4,6085dbe24d36b6325a4037f1,8
+Oneida,Whitestown Town PD,2019,12,6085dbe24d36b6325a4037f2,56
+Oneida,Yorkville Vg PD,2019,3,6085dbe24d36b6325a4037f3,14
+Onondaga,Baldwinsville Vg PD,2019,12,6085dbe24d36b6325a4037f4,92
+Onondaga,Camillus Town and Vg PD,2019,12,6085dbe24d36b6325a4037f5,588
+Onondaga,Cicero Town PD,2019,12,6085dbe24d36b6325a4037f6,358
+Onondaga,DeWitt Town PD,2019,12,6085dbe24d36b6325a4037f8,1288
+Onondaga,Geddes Town PD,2019,12,6085dbe24d36b6325a4037f9,332
+Onondaga,Liverpool Vg PD,2019,12,6085dbe24d36b6325a4037fa,18
+Onondaga,Manlius Town PD,2019,12,6085dbe24d36b6325a4037fb,546
+Onondaga,Marcellus Vg PD,2019,12,6085dbe24d36b6325a4037fc,8
+Onondaga,North Syracuse Vg PD,2019,12,6085dbe24d36b6325a4037fd,168
+Onondaga,Onondaga County Park PD,2019,12,6085dbe24d36b6325a4037fe,14
+Onondaga,Onondaga County Park Rangers,2019,12,6085dbe24d36b6325a4037ff,56
+Onondaga,Onondaga County Sheriff,2019,12,6085dbe24d36b6325a403800,3418
+Onondaga,Onondaga County State Police,2019,12,6085dbe24d36b6325a403801,1302
+Onondaga,Skaneateles Vg PD,2019,12,6085dbe24d36b6325a403802,80
+Onondaga,Solvay Vg PD,2019,12,6085dbe24d36b6325a403803,156
+Onondaga,SUNY Police - Environmental Science,2019,12,6085dbe24d36b6325a403804,16
+Onondaga,SUNY Police - Upstate Medical,2019,12,6085dbe24d36b6325a403805,208
+Onondaga,Syracuse City PD,2019,12,6085dbe24d36b6325a403806,11186
+Ontario,Canandaigua City PD,2019,12,6085dbe24d36b6325a403807,448
+Ontario,Geneva City PD,2019,12,6085dbe24d36b6325a403809,508
+Ontario,Ontario County Park PD,2019,12,6085dbe24d36b6325a40380a,2
+Ontario,Ontario County Sheriff,2019,12,6085dbe24d36b6325a40380b,1476
+Ontario,Ontario County State Police,2019,12,6085dbe24d36b6325a40380c,502
+Ontario,Phelps Vg PD,2019,7,6085dbe24d36b6325a40380d,4
+Ontario,Shortsville Vg PD,2019,12,6085dbe24d36b6325a40380e,2
+Orange,Blooming Grove Town PD,2019,12,6085dbe24d36b6325a40380f,120
+Orange,Chester Town PD,2019,12,6085dbe24d36b6325a403810,30
+Orange,Chester Vg PD,2019,12,6085dbe24d36b6325a403811,32
+Orange,Cornwall-on-Hudson Vg PD,2019,12,6085dbe24d36b6325a403812,32
+Orange,Cornwall Town PD,2019,12,6085dbe24d36b6325a403813,18
+Orange,Crawford Town PD,2019,12,6085dbe24d36b6325a403815,130
+Orange,Deerpark Town PD,2019,12,6085dbe24d36b6325a403816,120
+Orange,Florida Vg PD,2019,12,6085dbe24d36b6325a403817,10
+Orange,Goshen Town PD,2019,12,6085dbe24d36b6325a403818,58
+Orange,Goshen Vg PD,2019,12,6085dbe24d36b6325a403819,62
+Orange,Greenwood Lake Vg PD,2019,12,6085dbe24d36b6325a40381a,18
+Orange,Harriman Vg PD,2019,12,6085dbe24d36b6325a40381b,62
+Orange,Highland Falls Vg PD,2019,12,6085dbe24d36b6325a40381c,32
+Orange,Highlands Town PD,2019,12,6085dbe24d36b6325a40381d,14
+Orange,Maybrook Vg PD,2019,12,6085dbe24d36b6325a40381e,16
+Orange,Middletown City PD,2019,12,6085dbe24d36b6325a40381f,790
+Orange,Monroe Vg PD,2019,12,6085dbe24d36b6325a403820,252
+Orange,Montgomery Town PD,2019,12,6085dbe24d36b6325a403821,72
+Orange,Montgomery Vg PD,2019,12,6085dbe24d36b6325a403822,26
+Orange,Mount Hope Town PD,2019,12,6085dbe24d36b6325a403823,14
+Orange,Newburgh City PD,2019,12,6085dbe24d36b6325a403824,1914
+Orange,Newburgh Town PD,2019,12,6085dbe24d36b6325a403825,1866
+Orange,New Windsor Town PD,2019,12,6085dbe24d36b6325a403826,598
+Orange,Orange County MTA,2019,12,6085dbe24d36b6325a403827,2
+Orange,Orange County Park PD,2019,12,6085dbe24d36b6325a403828,14
+Orange,Orange County Sheriff,2019,12,6085dbe24d36b6325a403829,16
+Orange,Orange County State Police,2019,12,6085dbe24d36b6325a40382a,1292
+Orange,Port Jervis City PD,2019,12,6085dbe24d36b6325a40382b,348
+Orange,Tuxedo Park Vg PD,2019,12,6085dbe24d36b6325a40382c,4
+Orange,Tuxedo Town PD,2019,12,6085dbe24d36b6325a40382d,2
+Orange,Walden Vg PD,2019,12,6085dbe24d36b6325a40382e,76
+Orange,Wallkill Town PD,2019,12,6085dbe24d36b6325a40382f,1188
+Orange,Warwick Town PD,2019,12,6085dbe24d36b6325a403830,172
+Orange,Washingtonville Vg PD,2019,12,6085dbe24d36b6325a403831,42
+Orange,Woodbury Town PD,2019,12,6085dbe24d36b6325a403832,926
+Orleans,Albion Vg PD,2019,12,6085dbe24d36b6325a403833,334
+Orleans,Holley Vg PD,2019,12,6085dbe24d36b6325a403835,20
+Orleans,Medina Vg PD,2019,12,6085dbe24d36b6325a403836,204
+Orleans,Orleans County Sheriff,2019,12,6085dbe24d36b6325a403837,266
+Orleans,Orleans County State Police,2019,12,6085dbe24d36b6325a403838,148
+Oswego,Central Square Vg PD,2019,12,6085dbe24d36b6325a403839,126
+Oswego,Fulton City PD,2019,10,6085dbe24d36b6325a40383b,562
+Oswego,Oswego City PD,2019,12,6085dbe24d36b6325a40383c,1268
+Oswego,Oswego County Park PD,2019,12,6085dbe24d36b6325a40383d,6
+Oswego,Oswego County Sheriff,2019,12,6085dbe24d36b6325a40383e,604
+Oswego,Oswego County State Police,2019,12,6085dbe24d36b6325a40383f,1038
+Oswego,Phoenix Vg PD,2019,12,6085dbe24d36b6325a403840,38
+Oswego,Pulaski Vg PD,2019,12,6085dbe24d36b6325a403841,44
+Oswego,SUNY Police - Oswego,2019,12,6085dbe24d36b6325a403842,94
+Otsego,Oneonta City PD,2019,12,6085dbe24d36b6325a403844,358
+Otsego,Otsego County Park PD,2019,12,6085dbe24d36b6325a403845,4
+Otsego,Otsego County Sheriff,2019,12,6085dbe24d36b6325a403846,88
+Otsego,Otsego County State Police,2019,12,6085dbe24d36b6325a403847,720
+Otsego,SUNY Police - Oneonta,2019,12,6085dbe24d36b6325a403848,70
+Putnam,Brewster Vg PD,2019,12,6085dbe24d36b6325a403849,10
+Putnam,Carmel Town PD,2019,12,6085dbe24d36b6325a40384a,168
+Putnam,Cold Spring Vg PD,2019,12,6085dbe24d36b6325a40384b,6
+Putnam,Kent Town PD,2019,12,6085dbe24d36b6325a40384d,64
+Putnam,Putnam County MTA,2019,12,6085dbe24d36b6325a40384e,8
+Putnam,Putnam County Park PD,2019,12,6085dbe24d36b6325a40384f,10
+Putnam,Putnam County Sheriff,2019,12,6085dbe24d36b6325a403850,290
+Putnam,Putnam County State Police,2019,12,6085dbe24d36b6325a403851,196
+Queens,County Total,2019,12,6085dbe24d36b6325a403852,64966
+Rensselaer,East Greenbush Town PD,2019,12,6085dbe24d36b6325a403854,820
+Rensselaer,Hoosick Falls Vg PD,2019,12,6085dbe24d36b6325a403855,52
+Rensselaer,Nassau Vg PD,2019,12,6085dbe24d36b6325a403856,14
+Rensselaer,North Greenbush Town PD,2019,12,6085dbe24d36b6325a403857,328
+Rensselaer,Rensselaer City PD,2019,12,6085dbe24d36b6325a403858,210
+Rensselaer,Rensselaer County Park PD,2019,12,6085dbe24d36b6325a403859,8
+Rensselaer,Rensselaer County Sheriff,2019,12,6085dbe24d36b6325a40385a,496
+Rensselaer,Rensselaer County State Police,2019,12,6085dbe24d36b6325a40385b,870
+Rensselaer,Rensselaer Polytechnic Institute Department of Public Safety,2019,12,6085dbe24d36b6325a40385c,122
+Rensselaer,Schodack Town PD,2019,12,6085dbe24d36b6325a40385d,168
+Rensselaer,Troy City PD,2019,12,6085dbe24d36b6325a40385e,3322
+Richmond,County Total,2019,12,6085dbe24d36b6325a40385f,9578
+Rockland,Clarkstown Town PD,2019,12,6085dbe24d36b6325a403860,2082
+Rockland,Haverstraw Town PD,2019,12,6085dbe24d36b6325a403862,478
+Rockland,Orangetown Town PD,2019,12,6085dbe24d36b6325a403863,626
+Rockland,Piermont Vg PD,2019,12,6085dbe24d36b6325a403864,8
+Rockland,Ramapo Town PD,2019,12,6085dbe24d36b6325a403865,1008
+Rockland,Rockland County MTA,2019,12,6085dbe24d36b6325a403866,4
+Rockland,Rockland County Park PD,2019,12,6085dbe24d36b6325a403867,50
+Rockland,Rockland County Sheriff,2019,12,6085dbe24d36b6325a403868,64
+Rockland,Rockland County State Police,2019,12,6085dbe24d36b6325a403869,20
+Rockland,South Nyack-Grand View PD,2019,12,6085dbe24d36b6325a40386a,50
+Rockland,Spring Valley Vg PD,2019,12,6085dbe24d36b6325a40386b,1098
+Rockland,Stony Point Town PD,2019,12,6085dbe24d36b6325a40386c,122
+Rockland,Suffern Vg PD,2019,8,6085dbe24d36b6325a40386d,34
+Saratoga,Ballston Spa Vg PD,2019,12,6085dbe24d36b6325a40386e,66
+Saratoga,Mechanicville City PD,2019,12,6085dbe24d36b6325a403870,78
+Saratoga,Saratoga County Park PD,2019,12,6085dbe24d36b6325a403871,42
+Saratoga,Saratoga County Sheriff,2019,12,6085dbe24d36b6325a403872,2184
+Saratoga,Saratoga County State Police,2019,12,6085dbe24d36b6325a403873,1144
+Saratoga,Saratoga Springs City PD,2019,12,6085dbe24d36b6325a403874,1076
+Saratoga,South Glens Falls Vg PD,2019,12,6085dbe24d36b6325a403875,78
+Saratoga,Stillwater Town PD,2019,12,6085dbe24d36b6325a403876,34
+Saratoga,Waterford Town and Vg PD,2019,12,6085dbe24d36b6325a403877,58
+Schenectady,Glenville Town PD,2019,12,6085dbe24d36b6325a403879,640
+Schenectady,Niskayuna Town PD,2019,12,6085dbe24d36b6325a40387a,640
+Schenectady,Rotterdam Town PD,2019,12,6085dbe24d36b6325a40387b,1572
+Schenectady,Schenectady City PD,2019,12,6085dbe24d36b6325a40387c,4614
+Schenectady,Schenectady County Sheriff,2019,12,6085dbe24d36b6325a40387d,46
+Schenectady,Schenectady County State Police,2019,12,6085dbe24d36b6325a40387e,130
+Schenectady,Scotia Vg PD,2019,12,6085dbe24d36b6325a40387f,252
+Schoharie,Cobleskill Vg PD,2019,12,6085dbe24d36b6325a403880,132
+Schoharie,Schoharie County Sheriff,2019,12,6085dbe24d36b6325a403882,46
+Schoharie,Schoharie County State Police,2019,12,6085dbe24d36b6325a403883,256
+Schoharie,SUNY Police - Cobleskill,2019,12,6085dbe24d36b6325a403884,36
+Schuyler,Schuyler County Park PD,2019,12,6085dbe24d36b6325a403886,6
+Schuyler,Schuyler County Sheriff,2019,12,6085dbe24d36b6325a403887,30
+Schuyler,Schuyler County State Police,2019,12,6085dbe24d36b6325a403888,46
+Schuyler,Watkins Glen Vg PD,2019,12,6085dbe24d36b6325a403889,50
+Seneca,Seneca County Park PD,2019,12,6085dbe24d36b6325a40388b,6
+Seneca,Seneca County Sheriff,2019,12,6085dbe24d36b6325a40388c,90
+Seneca,Seneca County State Police,2019,12,6085dbe24d36b6325a40388d,244
+Seneca,Seneca Falls Town PD,2019,12,6085dbe24d36b6325a40388e,434
+Seneca,Waterloo Vg PD,2019,12,6085dbe24d36b6325a40388f,104
+Steuben,Addison Vg PD,2019,12,6085dbe24d36b6325a403890,16
+Steuben,Bath Vg PD,2019,12,6085dbe24d36b6325a403891,170
+Steuben,Canisteo Vg PD,2019,12,6085dbe24d36b6325a403892,14
+Steuben,Corning City PD,2019,12,6085dbe24d36b6325a403893,576
+Steuben,Hammondsport Vg PD,2019,12,6085dbe24d36b6325a403895,12
+Steuben,Hornell City PD,2019,9,6085dbe24d36b6325a403896,176
+Steuben,Painted Post Vg PD,2019,12,6085dbe24d36b6325a403897,18
+Steuben,Steuben County Sheriff,2019,12,6085dbe24d36b6325a403898,112
+Steuben,Steuben County State Police,2019,12,6085dbe24d36b6325a403899,704
+Steuben,Wayland Vg PD,2019,12,6085dbe24d36b6325a40389a,10
+St Lawrence,Canton Vg PD,2019,12,6085dbe24d36b6325a40389b,42
+St Lawrence,Massena Vg PD,2019,12,6085dbe24d36b6325a40389d,514
+St Lawrence,Norfolk Town PD,2019,12,6085dbe24d36b6325a40389e,10
+St Lawrence,Norwood Vg PD,2019,12,6085dbe24d36b6325a40389f,16
+St Lawrence,Ogdensburg City PD,2019,12,6085dbe24d36b6325a4038a0,666
+St Lawrence,Potsdam Vg PD,2019,12,6085dbe24d36b6325a4038a1,140
+St Lawrence,St Lawrence County Sheriff,2019,12,6085dbe24d36b6325a4038a2,72
+St Lawrence,St Lawrence County State Police,2019,12,6085dbe24d36b6325a4038a3,624
+St Lawrence,SUNY Police - Canton,2019,12,6085dbe24d36b6325a4038a4,54
+St Lawrence,SUNY Police - Potsdam,2019,12,6085dbe24d36b6325a4038a5,88
+Suffolk,Amityville Vg PD,2019,12,6085dbe24d36b6325a4038a6,142
+Suffolk,East Hampton Town PD,2019,12,6085dbe24d36b6325a4038a8,350
+Suffolk,East Hampton Vg PD,2019,12,6085dbe24d36b6325a4038a9,70
+Suffolk,Huntington Bay Vg PD,2019,12,6085dbe24d36b6325a4038aa,14
+Suffolk,Lloyd Harbor Vg PD,2019,12,6085dbe24d36b6325a4038ab,20
+Suffolk,Nissequogue Vg PD,2019,12,6085dbe24d36b6325a4038ac,10
+Suffolk,Northport Vg PD,2019,12,6085dbe24d36b6325a4038ad,14
+Suffolk,Ocean Beach Vg PD,2019,12,6085dbe24d36b6325a4038ae,18
+Suffolk,Quogue Vg PD,2019,12,6085dbe24d36b6325a4038af,60
+Suffolk,Riverhead Town PD,2019,12,6085dbe24d36b6325a4038b0,1202
+Suffolk,Southampton Town PD,2019,12,6085dbe24d36b6325a4038b1,1040
+Suffolk,Southampton Vg PD,2019,12,6085dbe24d36b6325a4038b2,100
+Suffolk,Southold Town PD,2019,12,6085dbe24d36b6325a4038b3,448
+Suffolk,Suffolk County MTA,2019,12,6085dbe24d36b6325a4038b4,102
+Suffolk,Suffolk County Park PD,2019,12,6085dbe24d36b6325a4038b5,26
+Suffolk,Suffolk County PD,2019,12,6085dbe24d36b6325a4038b6,32114
+Suffolk,Suffolk County Sheriff,2019,12,6085dbe24d36b6325a4038b7,68
+Suffolk,Suffolk County State Police,2019,12,6085dbe24d36b6325a4038b8,62
+Suffolk,SUNY Police - Farmingdale,2019,12,6085dbe24d36b6325a4038b9,42
+Suffolk,SUNY Police - Stony Brook,2019,12,6085dbe24d36b6325a4038ba,360
+Suffolk,Westhampton Beach Vg PD,2019,12,6085dbe24d36b6325a4038bb,52
+Sullivan,Fallsburg Town PD,2019,12,6085dbe24d36b6325a4038bd,196
+Sullivan,Liberty Vg PD,2019,12,6085dbe24d36b6325a4038be,298
+Sullivan,Monticello Vg PD,2019,12,6085dbe24d36b6325a4038bf,276
+Sullivan,NYC-DEPP - Grahamsville PCT,2019,12,6085dbe24d36b6325a4038c0,2
+Sullivan,Sullivan County Sheriff,2019,12,6085dbe24d36b6325a4038c1,602
+Sullivan,Sullivan County State Police,2019,12,6085dbe24d36b6325a4038c2,616
+Sullivan,Woodridge Vg PD,2019,12,6085dbe24d36b6325a4038c3,42
+Tioga,Owego Vg PD,2019,12,6085dbe24d36b6325a4038c5,262
+Tioga,Tioga County Sheriff,2019,12,6085dbe24d36b6325a4038c6,294
+Tioga,Tioga County State Police,2019,12,6085dbe24d36b6325a4038c7,210
+Tioga,Waverly Vg PD,2019,12,6085dbe24d36b6325a4038c8,26
+Tompkins,Cayuga Heights Vg PD,2019,12,6085dbe24d36b6325a4038c9,16
+Tompkins,Cornell University Police,2019,12,6085dbe24d36b6325a4038ca,428
+Tompkins,Dryden Vg PD,2019,12,6085dbe24d36b6325a4038cc,56
+Tompkins,Groton Vg PD,2019,12,6085dbe24d36b6325a4038cd,72
+Tompkins,Ithaca City PD,2019,12,6085dbe24d36b6325a4038ce,1776
+Tompkins,Ithaca College PD,2019,12,6085dbe24d36b6325a4038cf,148
+Tompkins,Tompkins County Park PD,2019,12,6085dbe24d36b6325a4038d0,18
+Tompkins,Tompkins County Sheriff,2019,12,6085dbe24d36b6325a4038d1,586
+Tompkins,Tompkins County State Police,2019,12,6085dbe24d36b6325a4038d2,546
+Tompkins,Trumansburg Vg PD,2019,12,6085dbe24d36b6325a4038d3,64
+Ulster,Ellenville Vg PD,2019,12,6085dbe24d36b6325a4038d5,118
+Ulster,Kingston City PD,2019,12,6085dbe24d36b6325a4038d6,1132
+Ulster,Lloyd Town PD,2019,12,6085dbe24d36b6325a4038d7,212
+Ulster,Marlborough Town PD,2019,12,6085dbe24d36b6325a4038d8,96
+Ulster,Olive Town PD,2019,12,6085dbe24d36b6325a4038d9,14
+Ulster,Plattekill Town PD,2019,12,6085dbe24d36b6325a4038da,48
+Ulster,Rosendale Town PD,2019,12,6085dbe24d36b6325a4038db,54
+Ulster,Saugerties Town PD,2019,12,6085dbe24d36b6325a4038dc,394
+Ulster,Shandaken Town PD,2019,12,6085dbe24d36b6325a4038dd,18
+Ulster,Shawangunk Town PD,2019,12,6085dbe24d36b6325a4038de,86
+Ulster,SUNY Police - New Paltz,2019,12,6085dbe24d36b6325a4038df,76
+Ulster,Ulster County Park PD,2019,12,6085dbe24d36b6325a4038e0,8
+Ulster,Ulster County Sheriff,2019,12,6085dbe24d36b6325a4038e1,332
+Ulster,Ulster County State Police,2019,12,6085dbe24d36b6325a4038e2,900
+Ulster,Ulster Regional Gang Enforcement Narcotics Team,2019,12,6085dbe24d36b6325a4038e3,2
+Ulster,Ulster Town PD,2019,12,6085dbe24d36b6325a4038e4,448
+Ulster,Woodstock Town PD,2019,12,6085dbe24d36b6325a4038e5,70
+Warren,Bolton Town PD,2019,12,6085dbe24d36b6325a4038e6,20
+Warren,Glens Falls City PD,2019,12,6085dbe24d36b6325a4038e8,264
+Warren,Warren County Sheriff,2019,12,6085dbe24d36b6325a4038e9,774
+Warren,Warren County State Police,2019,12,6085dbe24d36b6325a4038ea,396
+Washington,Cambridge Vg PD,2019,12,6085dbe24d36b6325a4038eb,40
+Washington,Fort Edward Vg PD,2019,12,6085dbe24d36b6325a4038ed,12
+Washington,Granville Vg PD,2019,12,6085dbe24d36b6325a4038ee,30
+Washington,Greenwich Vg PD,2019,12,6085dbe24d36b6325a4038ef,32
+Washington,Hudson Falls Vg PD,2019,12,6085dbe24d36b6325a4038f0,118
+Washington,Washington County Sheriff,2019,12,6085dbe24d36b6325a4038f1,206
+Washington,Washington County State Police,2019,12,6085dbe24d36b6325a4038f2,204
+Wayne,Clyde Vg PD,2019,12,6085dbe24d36b6325a4038f3,52
+Wayne,Macedon Town and Vg PD,2019,12,6085dbe24d36b6325a4038f5,156
+Wayne,Newark Vg PD,2019,12,6085dbe24d36b6325a4038f6,516
+Wayne,Palmyra Vg PD,2019,12,6085dbe24d36b6325a4038f7,22
+Wayne,Sodus Vg PD,2019,10,6085dbe24d36b6325a4038f8,8
+Wayne,Wayne County Sheriff,2019,12,6085dbe24d36b6325a4038f9,810
+Wayne,Wayne County State Police,2019,12,6085dbe24d36b6325a4038fa,868
+Wayne,Wolcott Vg PD,2019,11,6085dbe24d36b6325a4038fb,8
+Westchester,Ardsley Vg PD,2019,12,6085dbe24d36b6325a4038fc,44
+Westchester,Bedford Town PD,2019,12,6085dbe24d36b6325a4038fd,118
+Westchester,Briarcliff Manor Vg PD,2019,12,6085dbe24d36b6325a4038fe,60
+Westchester,Bronxville Vg PD,2019,12,6085dbe24d36b6325a4038ff,68
+Westchester,Buchanan Vg PD,2019,12,6085dbe24d36b6325a403900,16
+Westchester,Croton-On-Hudson Vg PD,2019,12,6085dbe24d36b6325a403902,78
+Westchester,Dobbs Ferry Vg PD,2019,12,6085dbe24d36b6325a403903,96
+Westchester,Eastchester Town PD,2019,12,6085dbe24d36b6325a403904,140
+Westchester,Elmsford Vg PD,2019,12,6085dbe24d36b6325a403905,28
+Westchester,Greenburgh Town PD,2019,12,6085dbe24d36b6325a403906,962
+Westchester,Harrison Town PD,2019,12,6085dbe24d36b6325a403907,294
+Westchester,Hastings-on-Hudson Vg PD,2019,12,6085dbe24d36b6325a403908,120
+Westchester,Irvington Vg PD,2019,12,6085dbe24d36b6325a403909,66
+Westchester,Larchmont Vg PD,2019,12,6085dbe24d36b6325a40390a,172
+Westchester,Mamaroneck Town PD,2019,12,6085dbe24d36b6325a40390b,162
+Westchester,Mamaroneck Vg PD,2019,12,6085dbe24d36b6325a40390c,346
+Westchester,Mount Pleasant Town PD,2019,12,6085dbe24d36b6325a40390d,340
+Westchester,Mount Vernon City PD,2019,12,6085dbe24d36b6325a40390e,2446
+Westchester,New Castle Town PD,2019,12,6085dbe24d36b6325a40390f,108
+Westchester,New Rochelle City PD,2019,12,6085dbe24d36b6325a403910,2216
+Westchester,North Castle Town PD,2019,12,6085dbe24d36b6325a403911,158
+Westchester,NYC DEPP - Eastview PCT,2019,12,6085dbe24d36b6325a403912,20
+Westchester,Ossining Vg PD,2019,12,6085dbe24d36b6325a403913,354
+Westchester,Peekskill City PD,2019,12,6085dbe24d36b6325a403914,478
+Westchester,Pelham Manor Vg PD,2019,12,6085dbe24d36b6325a403915,312
+Westchester,Pelham Vg PD,2019,12,6085dbe24d36b6325a403916,98
+Westchester,Pleasantville Vg PD,2019,12,6085dbe24d36b6325a403917,90
+Westchester,Port Chester Vg PD,2019,12,6085dbe24d36b6325a403918,442
+Westchester,Pound Ridge Town PD,2019,12,6085dbe24d36b6325a403919,70
+Westchester,Rye Brook Vg PD,2019,12,6085dbe24d36b6325a40391a,138
+Westchester,Rye City PD,2019,12,6085dbe24d36b6325a40391b,32
+Westchester,Scarsdale Vg PD,2019,12,6085dbe24d36b6325a40391c,244
+Westchester,SUNY Police - Purchase,2019,12,6085dbe24d36b6325a40391d,70
+Westchester,Tarrytown Vg PD,2019,12,6085dbe24d36b6325a40391e,128
+Westchester,Tuckahoe Vg PD,2019,12,6085dbe24d36b6325a40391f,56
+Westchester,Westchester Co Dept Pub Safety,2019,12,6085dbe24d36b6325a403920,458
+Westchester,Westchester County MTA,2019,12,6085dbe24d36b6325a403921,150
+Westchester,Westchester County Park PD,2019,12,6085dbe24d36b6325a403922,4
+Westchester,Westchester County State Police,2019,12,6085dbe24d36b6325a403923,678
+Westchester,White Plains City PD,2019,12,6085dbe24d36b6325a403924,1898
+Westchester,Yonkers City PD,2019,12,6085dbe24d36b6325a403925,5072
+Westchester,Yorktown Town PD,2019,12,6085dbe24d36b6325a403926,444
+Wyoming,Arcade Vg PD,2019,12,6085dbe24d36b6325a403927,16
+Wyoming,Attica Vg PD,2019,12,6085dbe24d36b6325a403928,10
+Wyoming,Perry Vg PD,2019,12,6085dbe24d36b6325a40392a,80
+Wyoming,Warsaw Vg PD,2019,12,6085dbe24d36b6325a40392b,96
+Wyoming,Wyoming County Sheriff,2019,12,6085dbe24d36b6325a40392c,226
+Wyoming,Wyoming County State Police,2019,12,6085dbe24d36b6325a40392d,86
+Yates,Penn Yan Vg PD,2019,12,6085dbe24d36b6325a40392f,114
+Yates,Yates County Sheriff,2019,12,6085dbe24d36b6325a403930,220
+Yates,Yates County State Police,2019,12,6085dbe24d36b6325a403931,40
+Albany,Albany City PD,2018,12,6085dbe24d36b6325a403932,7938
+Albany,Albany County Park PD,2018,12,6085dbe24d36b6325a403933,2
+Albany,Albany County Sheriff,2018,12,6085dbe24d36b6325a403934,262
+Albany,Albany County State Police,2018,12,6085dbe24d36b6325a403935,316
+Albany,Altamont Vg PD,2018,12,6085dbe24d36b6325a403936,14
+Albany,Bethlehem Town PD,2018,12,6085dbe24d36b6325a403937,1052
+Albany,Coeymans Town PD,2018,12,6085dbe24d36b6325a403938,156
+Albany,Cohoes City PD,2018,12,6085dbe24d36b6325a403939,490
+Albany,Colonie Town PD,2018,12,6085dbe24d36b6325a40393a,3872
+Albany,Green Island Vg PD,2018,12,6085dbe24d36b6325a40393c,78
+Albany,Guilderland Town PD,2018,12,6085dbe24d36b6325a40393d,1428
+Albany,Menands Vg PD,2018,12,6085dbe24d36b6325a40393e,292
+Albany,SUNY Police - Albany,2018,12,6085dbe24d36b6325a40393f,304
+Albany,Watervliet City PD,2018,12,6085dbe24d36b6325a403940,524
+Allegany,Alfred Vg PD,2018,12,6085dbe24d36b6325a403941,44
+Allegany,Allegany County Sheriff,2018,12,6085dbe24d36b6325a403942,10
+Allegany,Allegany County State Police,2018,12,6085dbe24d36b6325a403943,524
+Allegany,Angelica Vg PD,2018,12,6085dbe24d36b6325a403944,2
+Allegany,Cuba Town PD,2018,12,6085dbe24d36b6325a403946,82
+Allegany,Friendship Town PD,2018,12,6085dbe24d36b6325a403947,8
+Allegany,Independence Town PD,2018,12,6085dbe24d36b6325a403948,8
+Allegany,SUNY Police - Alfred,2018,12,6085dbe24d36b6325a403949,74
+Allegany,Wellsville Vg PD,2018,12,6085dbe24d36b6325a40394a,162
+Bronx,County Total,2018,12,6085dbe24d36b6325a40394b,70710
+Broome,Binghamton City PD,2018,12,6085dbe24d36b6325a40394c,4426
+Broome,Broome County Park PD,2018,12,6085dbe24d36b6325a40394d,2
+Broome,Broome County Sheriff,2018,12,6085dbe24d36b6325a40394e,1116
+Broome,Broome County State Police,2018,12,6085dbe24d36b6325a40394f,1058
+Broome,Deposit Vg PD,2018,12,6085dbe24d36b6325a403951,18
+Broome,Endicott Vg PD,2018,12,6085dbe24d36b6325a403952,938
+Broome,Johnson City Vg PD,2018,12,6085dbe24d36b6325a403953,1320
+Broome,Port Dickinson Vg PD,2018,12,6085dbe24d36b6325a403954,38
+Broome,SUNY Police - Binghamton,2018,12,6085dbe24d36b6325a403955,274
+Broome,Vestal Town PD,2018,12,6085dbe24d36b6325a403956,1078
+Cattaraugus,Allegany Vg PD,2018,12,6085dbe24d36b6325a403957,24
+Cattaraugus,Cattaraugus County Park PD,2018,12,6085dbe24d36b6325a403958,12
+Cattaraugus,Cattaraugus County Sheriff,2018,12,6085dbe24d36b6325a403959,586
+Cattaraugus,Cattaraugus County State Police,2018,12,6085dbe24d36b6325a40395a,464
+Cattaraugus,Cattaraugus Vg PD,2018,12,6085dbe24d36b6325a40395b,2
+Cattaraugus,Ellicottville Town PD,2018,12,6085dbe24d36b6325a40395d,30
+Cattaraugus,Franklinville Vg PD,2018,12,6085dbe24d36b6325a40395e,14
+Cattaraugus,Olean City PD,2018,12,6085dbe24d36b6325a40395f,894
+Cattaraugus,Salamanca City PD,2018,12,6085dbe24d36b6325a403960,156
+Cayuga,Auburn City PD,2018,12,6085dbe24d36b6325a403961,1716
+Cayuga,Cayuga County Park PD,2018,12,6085dbe24d36b6325a403962,6
+Cayuga,Cayuga County Sheriff,2018,12,6085dbe24d36b6325a403963,372
+Cayuga,Cayuga County State Police,2018,12,6085dbe24d36b6325a403964,362
+Cayuga,Moravia Vg PD,2018,12,6085dbe24d36b6325a403966,6
+Cayuga,Port Byron Vg PD,2018,12,6085dbe24d36b6325a403967,2
+Cayuga,Weedsport Vg PD,2018,12,6085dbe24d36b6325a403968,12
+Chautauqua,Carroll Town PD,2018,12,6085dbe24d36b6325a403969,12
+Chautauqua,Chautauqua County Park PD,2018,12,6085dbe24d36b6325a40396a,4
+Chautauqua,Chautauqua County Sheriff,2018,12,6085dbe24d36b6325a40396b,922
+Chautauqua,Chautauqua County State Police,2018,12,6085dbe24d36b6325a40396c,358
+Chautauqua,Dunkirk City PD,2018,12,6085dbe24d36b6325a40396e,392
+Chautauqua,Ellicott Town PD,2018,12,6085dbe24d36b6325a40396f,338
+Chautauqua,Fredonia Vg PD,2018,12,6085dbe24d36b6325a403970,332
+Chautauqua,Jamestown City PD,2018,12,6085dbe24d36b6325a403971,2090
+Chautauqua,Lakewood-Busti PD,2018,12,6085dbe24d36b6325a403972,722
+Chautauqua,SUNY Police - Fredonia,2018,12,6085dbe24d36b6325a403973,116
+Chautauqua,Westfield Vg PD,2018,12,6085dbe24d36b6325a403974,20
+Chemung,Chemung County Sheriff,2018,12,6085dbe24d36b6325a403975,508
+Chemung,Chemung County State Police,2018,12,6085dbe24d36b6325a403976,508
+Chemung,Elmira City PD,2018,12,6085dbe24d36b6325a403978,1544
+Chemung,Elmira Heights Vg PD,2018,12,6085dbe24d36b6325a403979,122
+Chemung,Elmira Town PD,2018,12,6085dbe24d36b6325a40397a,4
+Chemung,Horseheads Vg PD,2018,12,6085dbe24d36b6325a40397b,190
+Chenango,Bainbridge Vg PD,2018,12,6085dbe24d36b6325a40397c,4
+Chenango,Chenango County Park PD,2018,12,6085dbe24d36b6325a40397d,2
+Chenango,Chenango County Sheriff,2018,12,6085dbe24d36b6325a40397e,580
+Chenango,Chenango County State Police,2018,12,6085dbe24d36b6325a40397f,370
+Chenango,Greene Vg PD,2018,12,6085dbe24d36b6325a403981,20
+Chenango,New Berlin Town PD,2018,12,6085dbe24d36b6325a403982,20
+Chenango,Norwich City PD,2018,12,6085dbe24d36b6325a403983,402
+Chenango,Oxford Vg PD,2018,12,6085dbe24d36b6325a403984,6
+Chenango,Sherburne Vg PD,2018,12,6085dbe24d36b6325a403985,22
+Clinton,Clinton County Park PD,2018,12,6085dbe24d36b6325a403986,6
+Clinton,Clinton County Sheriff,2018,12,6085dbe24d36b6325a403987,80
+Clinton,Clinton County State Police,2018,12,6085dbe24d36b6325a403988,1398
+Clinton,Plattsburgh City PD,2018,12,6085dbe24d36b6325a40398a,720
+Clinton,SUNY Police - Plattsburgh,2018,12,6085dbe24d36b6325a40398b,116
+Columbia,Chatham Vg PD,2018,12,6085dbe24d36b6325a40398c,2
+Columbia,Columbia County Park PD,2018,12,6085dbe24d36b6325a40398d,6
+Columbia,Columbia County Sheriff,2018,12,6085dbe24d36b6325a40398e,640
+Columbia,Columbia County State Police,2018,12,6085dbe24d36b6325a40398f,380
+Columbia,Greenport Town PD,2018,12,6085dbe24d36b6325a403991,332
+Columbia,Hudson City PD,2018,12,6085dbe24d36b6325a403992,390
+Columbia,Philmont Vg PD,2018,12,6085dbe24d36b6325a403993,20
+Columbia,Stockport Town PD,2018,11,6085dbe24d36b6325a403994,14
+Cortland,Cortland City PD,2018,12,6085dbe24d36b6325a403995,688
+Cortland,Cortland County Sheriff,2018,12,6085dbe24d36b6325a403996,498
+Cortland,Cortland County State Police,2018,12,6085dbe24d36b6325a403997,280
+Cortland,Homer Vg PD,2018,12,6085dbe24d36b6325a403999,10
+Cortland,SUNY Police - Cortland,2018,12,6085dbe24d36b6325a40399a,74
+Delaware,Colchester Town PD,2018,12,6085dbe24d36b6325a40399b,32
+Delaware,Delaware County Sheriff,2018,12,6085dbe24d36b6325a40399d,354
+Delaware,Delaware County State Police,2018,12,6085dbe24d36b6325a40399e,358
+Delaware,Delhi Vg PD,2018,12,6085dbe24d36b6325a40399f,76
+Delaware,Hancock Vg PD,2018,12,6085dbe24d36b6325a4039a0,34
+Delaware,NYC-DEPP - Beerston PCT,2018,12,6085dbe24d36b6325a4039a1,12
+Delaware,Sidney Vg PD,2018,12,6085dbe24d36b6325a4039a2,208
+Delaware,SUNY Police - Delhi,2018,12,6085dbe24d36b6325a4039a3,92
+Dutchess,Beacon City PD,2018,12,6085dbe24d36b6325a4039a4,428
+Dutchess,Dutchess County MTA,2018,12,6085dbe24d36b6325a4039a6,22
+Dutchess,Dutchess County Park PD,2018,12,6085dbe24d36b6325a4039a7,6
+Dutchess,Dutchess County Sheriff,2018,12,6085dbe24d36b6325a4039a8,858
+Dutchess,Dutchess County State Police,2018,12,6085dbe24d36b6325a4039a9,1280
+Dutchess,East Fishkill Town PD,2018,12,6085dbe24d36b6325a4039aa,290
+Dutchess,Fishkill Town PD,2018,12,6085dbe24d36b6325a4039ab,342
+Dutchess,Fishkill Vg PD,2018,12,6085dbe24d36b6325a4039ac,58
+Dutchess,Hyde Park Town PD,2018,12,6085dbe24d36b6325a4039ad,200
+Dutchess,Millerton Vg PD,2018,12,6085dbe24d36b6325a4039ae,4
+Dutchess,Pine Plains Town PD,2018,12,6085dbe24d36b6325a4039af,10
+Dutchess,Poughkeepsie City PD,2018,12,6085dbe24d36b6325a4039b0,1428
+Dutchess,Poughkeepsie Town PD,2018,12,6085dbe24d36b6325a4039b1,2130
+Dutchess,Red Hook Vg PD,2018,12,6085dbe24d36b6325a4039b2,66
+Dutchess,Rhinebeck Vg PD,2018,12,6085dbe24d36b6325a4039b3,56
+Dutchess,Wappingers Falls Vg PD,2018,12,6085dbe24d36b6325a4039b4,142
+Erie,Akron Vg PD,2018,12,6085dbe24d36b6325a4039b5,22
+Erie,Amherst Town PD,2018,12,6085dbe24d36b6325a4039b6,3822
+Erie,Blasdell Vg PD,2018,3,6085dbe24d36b6325a4039b7,20
+Erie,Brant Town PD,2018,12,6085dbe24d36b6325a4039b8,28
+Erie,Buffalo City PD,2018,12,6085dbe24d36b6325a4039b9,25062
+Erie,Cheektowaga Town PD,2018,12,6085dbe24d36b6325a4039ba,4690
+Erie,Depew Vg PD,2018,12,6085dbe24d36b6325a4039bc,524
+Erie,East Aurora-Town Of Aurora PD,2018,12,6085dbe24d36b6325a4039bd,160
+Erie,Eden Town PD,2018,12,6085dbe24d36b6325a4039be,70
+Erie,Erie County Park PD,2018,12,6085dbe24d36b6325a4039bf,16
+Erie,Erie County Sheriff,2018,12,6085dbe24d36b6325a4039c0,1242
+Erie,Erie County State Police,2018,12,6085dbe24d36b6325a4039c1,522
+Erie,Evans Town PD,2018,12,6085dbe24d36b6325a4039c2,400
+Erie,Gowanda Vg PD,2018,12,6085dbe24d36b6325a4039c3,82
+Erie,Hamburg Town PD,2018,12,6085dbe24d36b6325a4039c4,1858
+Erie,Hamburg Vg PD,2018,12,6085dbe24d36b6325a4039c5,210
+Erie,Kenmore Vg PD,2018,12,6085dbe24d36b6325a4039c6,398
+Erie,Lackawanna City PD,2018,12,6085dbe24d36b6325a4039c7,770
+Erie,Lancaster Town PD,2018,12,6085dbe24d36b6325a4039c8,852
+Erie,Orchard Park Town PD,2018,12,6085dbe24d36b6325a4039c9,718
+Erie,SUNY Police - Buffalo,2018,12,6085dbe24d36b6325a4039ca,412
+Erie,SUNY Police - Buffalo State College,2018,12,6085dbe24d36b6325a4039cb,288
+Erie,Tonawanda City PD,2018,12,6085dbe24d36b6325a4039cc,544
+Erie,Tonawanda Town PD,2018,12,6085dbe24d36b6325a4039cd,1704
+Erie,West Seneca Town PD,2018,12,6085dbe24d36b6325a4039ce,1384
+Essex,Essex County Sheriff,2018,12,6085dbe24d36b6325a4039d0,8
+Essex,Essex County State Police,2018,12,6085dbe24d36b6325a4039d1,436
+Essex,Lake Placid Vg PD,2018,11,6085dbe24d36b6325a4039d2,40
+Essex,Ticonderoga Town PD,2018,12,6085dbe24d36b6325a4039d3,102
+Franklin,Franklin County State Police,2018,12,6085dbe24d36b6325a4039d5,592
+Franklin,Malone Vg PD,2018,12,6085dbe24d36b6325a4039d6,234
+Franklin,Saranac Lake Vg PD,2018,12,6085dbe24d36b6325a4039d7,76
+Franklin,Tupper Lake Vg PD,2018,12,6085dbe24d36b6325a4039d8,134
+Fulton,Fulton County Sheriff,2018,12,6085dbe24d36b6325a4039da,466
+Fulton,Fulton County State Police,2018,12,6085dbe24d36b6325a4039db,202
+Fulton,Gloversville City PD,2018,12,6085dbe24d36b6325a4039dc,892
+Fulton,Johnstown City PD,2018,12,6085dbe24d36b6325a4039dd,326
+Fulton,Northville Vg PD,2018,12,6085dbe24d36b6325a4039de,2
+Genesee,Batavia City PD,2018,12,6085dbe24d36b6325a4039df,864
+Genesee,Genesee County Park PD,2018,12,6085dbe24d36b6325a4039e1,4
+Genesee,Genesee County Sheriff,2018,12,6085dbe24d36b6325a4039e2,664
+Genesee,Genesee County State Police,2018,12,6085dbe24d36b6325a4039e3,232
+Genesee,LeRoy Vg PD,2018,12,6085dbe24d36b6325a4039e4,124
+Greene,Cairo Town PD,2018,12,6085dbe24d36b6325a4039e5,88
+Greene,Catskill Vg PD,2018,12,6085dbe24d36b6325a4039e6,288
+Greene,Coxsackie Vg PD,2018,12,6085dbe24d36b6325a4039e8,8
+Greene,Durham Town PD,2018,12,6085dbe24d36b6325a4039e9,12
+Greene,Greene County Sheriff,2018,12,6085dbe24d36b6325a4039ea,52
+Greene,Greene County State Police,2018,12,6085dbe24d36b6325a4039eb,766
+Greene,Windham Town PD,2018,12,6085dbe24d36b6325a4039ec,4
+Hamilton,Hamilton County Sheriff,2018,12,6085dbe24d36b6325a4039ee,12
+Hamilton,Hamilton County State Police,2018,12,6085dbe24d36b6325a4039ef,78
+Hamilton,Inlet Town PD,2018,12,6085dbe24d36b6325a4039f0,2
+Herkimer,Dolgeville Vg PD,2018,12,6085dbe24d36b6325a4039f2,16
+Herkimer,Frankfort Town PD,2018,12,6085dbe24d36b6325a4039f3,28
+Herkimer,Frankfort Vg PD,2018,12,6085dbe24d36b6325a4039f4,28
+Herkimer,Herkimer County State Police,2018,12,6085dbe24d36b6325a4039f5,426
+Herkimer,Herkimer Vg PD,2018,12,6085dbe24d36b6325a4039f6,552
+Herkimer,Ilion Vg PD,2018,12,6085dbe24d36b6325a4039f7,368
+Herkimer,Little Falls City PD,2018,12,6085dbe24d36b6325a4039f8,142
+Herkimer,Mohawk Vg PD,2018,12,6085dbe24d36b6325a4039f9,44
+Jefferson,Adams Vg PD,2018,12,6085dbe24d36b6325a4039fa,4
+Jefferson,Alexandria Bay Vg PD,2018,12,6085dbe24d36b6325a4039fb,20
+Jefferson,Black River Vg PD,2018,12,6085dbe24d36b6325a4039fc,8
+Jefferson,Brownville Vg PD,2018,12,6085dbe24d36b6325a4039fd,6
+Jefferson,Carthage Vg PD,2018,12,6085dbe24d36b6325a4039fe,100
+Jefferson,Clayton Vg PD,2018,12,6085dbe24d36b6325a4039ff,12
+Jefferson,Dexter Vg PD,2018,12,6085dbe24d36b6325a403a01,2
+Jefferson,Jefferson County Park PD,2018,12,6085dbe24d36b6325a403a02,14
+Jefferson,Jefferson County Sheriff,2018,12,6085dbe24d36b6325a403a03,544
+Jefferson,Jefferson County State Police,2018,12,6085dbe24d36b6325a403a04,1108
+Jefferson,Watertown City PD,2018,12,6085dbe24d36b6325a403a05,2176
+Jefferson,West Carthage Vg PD,2018,12,6085dbe24d36b6325a403a06,30
+Kings,County Total,2018,12,6085dbe24d36b6325a403a07,100212
+Lewis,Lewis County Sheriff,2018,12,6085dbe24d36b6325a403a09,156
+Lewis,Lewis County State Police,2018,12,6085dbe24d36b6325a403a0a,196
+Lewis,Lowville Vg PD,2018,12,6085dbe24d36b6325a403a0b,62
+Livingston,Caledonia Vg PD,2018,12,6085dbe24d36b6325a403a0c,6
+Livingston,Dansville Vg PD,2018,12,6085dbe24d36b6325a403a0e,176
+Livingston,Geneseo Vg PD,2018,12,6085dbe24d36b6325a403a0f,180
+Livingston,Livingston County Park PD,2018,12,6085dbe24d36b6325a403a10,6
+Livingston,Livingston County Sheriff,2018,12,6085dbe24d36b6325a403a11,566
+Livingston,Livingston County State Police,2018,12,6085dbe24d36b6325a403a12,96
+Livingston,Mount Morris Vg PD,2018,12,6085dbe24d36b6325a403a13,120
+Livingston,Nunda Town and Vg PD,2018,4,6085dbe24d36b6325a403a14,2
+Livingston,SUNY Police - Geneseo,2018,12,6085dbe24d36b6325a403a15,118
+Madison,Canastota Vg PD,2018,12,6085dbe24d36b6325a403a16,94
+Madison,Cazenovia Vg PD,2018,12,6085dbe24d36b6325a403a17,72
+Madison,Chittenango Vg PD,2018,12,6085dbe24d36b6325a403a18,62
+Madison,Hamilton Vg PD,2018,12,6085dbe24d36b6325a403a1a,22
+Madison,Madison County Park PD,2018,12,6085dbe24d36b6325a403a1b,2
+Madison,Madison County Sheriff,2018,12,6085dbe24d36b6325a403a1c,320
+Madison,Madison County State Police,2018,12,6085dbe24d36b6325a403a1d,400
+Madison,Oneida City PD,2018,12,6085dbe24d36b6325a403a1e,862
+Madison,SUNY Police - Morrisville,2018,12,6085dbe24d36b6325a403a1f,70
+Monroe,Brighton Town PD,2018,12,6085dbe24d36b6325a403a20,1252
+Monroe,Brockport Vg PD,2018,12,6085dbe24d36b6325a403a21,194
+Monroe,East Rochester Vg PD,2018,12,6085dbe24d36b6325a403a23,214
+Monroe,Fairport Vg PD,2018,12,6085dbe24d36b6325a403a24,46
+Monroe,Gates Town PD,2018,12,6085dbe24d36b6325a403a25,1758
+Monroe,Greece Town PD,2018,12,6085dbe24d36b6325a403a26,4476
+Monroe,Irondequoit Town PD,2018,12,6085dbe24d36b6325a403a27,2030
+Monroe,Monroe County Park PD,2018,12,6085dbe24d36b6325a403a28,8
+Monroe,Monroe County Sheriff,2018,12,6085dbe24d36b6325a403a29,4506
+Monroe,Monroe County State Police,2018,12,6085dbe24d36b6325a403a2a,198
+Monroe,Ogden Town PD,2018,12,6085dbe24d36b6325a403a2b,416
+Monroe,Rochester City PD,2018,12,6085dbe24d36b6325a403a2c,17306
+Monroe,SUNY Police - Brockport,2018,12,6085dbe24d36b6325a403a2d,110
+Monroe,Webster Town and Vg PD,2018,12,6085dbe24d36b6325a403a2e,790
+Montgomery,Amsterdam City PD,2018,12,6085dbe24d36b6325a403a2f,452
+Montgomery,Canajoharie Vg PD,2018,12,6085dbe24d36b6325a403a30,44
+Montgomery,Fort Plain Vg PD,2018,12,6085dbe24d36b6325a403a32,248
+Montgomery,Montgomery County Sheriff,2018,12,6085dbe24d36b6325a403a33,406
+Montgomery,Montgomery County State Police,2018,12,6085dbe24d36b6325a403a34,256
+Montgomery,St Johnsville Vg PD,2018,12,6085dbe24d36b6325a403a35,36
+Nassau,Centre Island Vg PD,2018,12,6085dbe24d36b6325a403a36,8
+Nassau,Floral Park Vg PD,2018,12,6085dbe24d36b6325a403a38,108
+Nassau,Freeport Vg PD,2018,12,6085dbe24d36b6325a403a39,984
+Nassau,Garden City Vg PD,2018,12,6085dbe24d36b6325a403a3a,736
+Nassau,Glen Cove City PD,2018,12,6085dbe24d36b6325a403a3b,230
+Nassau,Hempstead Vg PD,2018,12,6085dbe24d36b6325a403a3c,1822
+Nassau,Kings Point Vg PD,2018,12,6085dbe24d36b6325a403a3d,22
+Nassau,Lake Success Vg PD,2018,12,6085dbe24d36b6325a403a3e,48
+Nassau,Long Beach City PD,2018,12,6085dbe24d36b6325a403a3f,218
+Nassau,Lynbrook Vg PD,2018,12,6085dbe24d36b6325a403a40,244
+Nassau,Malverne Vg PD,2018,12,6085dbe24d36b6325a403a41,38
+Nassau,Nassau County MTA,2018,12,6085dbe24d36b6325a403a42,86
+Nassau,Nassau County Park PD,2018,12,6085dbe24d36b6325a403a43,96
+Nassau,Nassau County PD,2018,12,6085dbe24d36b6325a403a44,21300
+Nassau,Nassau County State Police,2018,12,6085dbe24d36b6325a403a45,32
+Nassau,Old Brookville Vg PD,2018,12,6085dbe24d36b6325a403a46,66
+Nassau,Old Westbury Vg PD,2018,12,6085dbe24d36b6325a403a47,72
+Nassau,Oyster Bay Cove Vg PD,2018,12,6085dbe24d36b6325a403a48,6
+Nassau,Port Washington Police District,2018,12,6085dbe24d36b6325a403a49,204
+Nassau,Rockville Centre Vg PD,2018,12,6085dbe24d36b6325a403a4a,400
+Nassau,Sands Point Vg PD,2018,12,6085dbe24d36b6325a403a4b,20
+New York,County Total,2018,12,6085dbe24d36b6325a403a4c,99660
+Niagara,Lewiston Town PD,2018,12,6085dbe24d36b6325a403a4e,336
+Niagara,Lockport City PD,2018,4,6085dbe24d36b6325a403a4f,314
+Niagara,Middleport Vg PD,2018,12,6085dbe24d36b6325a403a50,58
+Niagara,Niagara County Park PD,2018,12,6085dbe24d36b6325a403a51,80
+Niagara,Niagara County Sheriff,2018,12,6085dbe24d36b6325a403a52,1318
+Niagara,Niagara County State Police,2018,12,6085dbe24d36b6325a403a53,498
+Niagara,Niagara Falls City PD,2018,12,6085dbe24d36b6325a403a54,4806
+Niagara,Niagara Town PD,2018,12,6085dbe24d36b6325a403a55,540
+Niagara,North Tonawanda City PD,2018,12,6085dbe24d36b6325a403a56,894
+Niagara,Somerset Town PD,2018,12,6085dbe24d36b6325a403a57,6
+Niagara,Youngstown Vg PD,2018,12,6085dbe24d36b6325a403a58,4
+Oneida,Boonville Vg PD,2018,12,6085dbe24d36b6325a403a59,32
+Oneida,Camden Vg PD,2018,12,6085dbe24d36b6325a403a5a,38
+Oneida,Kirkland Town PD,2018,12,6085dbe24d36b6325a403a5c,12
+Oneida,New Hartford Town and Vg PD,2018,12,6085dbe24d36b6325a403a5d,1410
+Oneida,New York Mills Vg PD,2018,12,6085dbe24d36b6325a403a5e,66
+Oneida,Oneida County Park PD,2018,12,6085dbe24d36b6325a403a5f,4
+Oneida,Oneida County Sheriff,2018,12,6085dbe24d36b6325a403a60,800
+Oneida,Oneida County State Police,2018,12,6085dbe24d36b6325a403a61,936
+Oneida,Oriskany Vg PD,2018,12,6085dbe24d36b6325a403a62,16
+Oneida,Rome City PD,2018,12,6085dbe24d36b6325a403a63,1178
+Oneida,Sherrill City PD,2018,12,6085dbe24d36b6325a403a64,12
+Oneida,SUNY Police - Polytechnic Institute,2018,12,6085dbe24d36b6325a403a65,20
+Oneida,Utica City PD,2018,12,6085dbe24d36b6325a403a66,4594
+Oneida,Vernon Vg PD,2018,12,6085dbe24d36b6325a403a67,20
+Oneida,Whitesboro Vg PD,2018,12,6085dbe24d36b6325a403a68,34
+Oneida,Whitestown Town PD,2018,12,6085dbe24d36b6325a403a69,60
+Oneida,Yorkville Vg PD,2018,12,6085dbe24d36b6325a403a6a,70
+Onondaga,Baldwinsville Vg PD,2018,12,6085dbe24d36b6325a403a6b,106
+Onondaga,Camillus Town and Vg PD,2018,12,6085dbe24d36b6325a403a6c,578
+Onondaga,Cicero Town PD,2018,12,6085dbe24d36b6325a403a6d,458
+Onondaga,DeWitt Town PD,2018,12,6085dbe24d36b6325a403a6f,1236
+Onondaga,Geddes Town PD,2018,12,6085dbe24d36b6325a403a70,444
+Onondaga,Jordan Vg PD,2018,12,6085dbe24d36b6325a403a71,2
+Onondaga,Liverpool Vg PD,2018,12,6085dbe24d36b6325a403a72,38
+Onondaga,Manlius Town PD,2018,12,6085dbe24d36b6325a403a73,558
+Onondaga,Marcellus Vg PD,2018,12,6085dbe24d36b6325a403a74,22
+Onondaga,North Syracuse Vg PD,2018,12,6085dbe24d36b6325a403a75,156
+Onondaga,Onondaga County Park PD,2018,12,6085dbe24d36b6325a403a76,10
+Onondaga,Onondaga County Park Rangers,2018,12,6085dbe24d36b6325a403a77,26
+Onondaga,Onondaga County Sheriff,2018,12,6085dbe24d36b6325a403a78,3666
+Onondaga,Onondaga County State Police,2018,12,6085dbe24d36b6325a403a79,1188
+Onondaga,Skaneateles Vg PD,2018,12,6085dbe24d36b6325a403a7a,34
+Onondaga,Solvay Vg PD,2018,12,6085dbe24d36b6325a403a7b,248
+Onondaga,SUNY Police - Environmental Science,2018,12,6085dbe24d36b6325a403a7c,42
+Onondaga,SUNY Police - Upstate Medical,2018,12,6085dbe24d36b6325a403a7d,234
+Onondaga,Syracuse City PD,2018,12,6085dbe24d36b6325a403a7e,10852
+Ontario,Canandaigua City PD,2018,12,6085dbe24d36b6325a403a7f,436
+Ontario,Clifton Springs Vg PD,2018,4,6085dbe24d36b6325a403a80,4
+Ontario,Geneva City PD,2018,12,6085dbe24d36b6325a403a82,504
+Ontario,Ontario County Sheriff,2018,12,6085dbe24d36b6325a403a83,1398
+Ontario,Ontario County State Police,2018,12,6085dbe24d36b6325a403a84,572
+Ontario,Phelps Vg PD,2018,12,6085dbe24d36b6325a403a85,10
+Orange,Blooming Grove Town PD,2018,12,6085dbe24d36b6325a403a86,178
+Orange,Chester Town PD,2018,12,6085dbe24d36b6325a403a87,42
+Orange,Chester Vg PD,2018,12,6085dbe24d36b6325a403a88,54
+Orange,Cornwall-on-Hudson Vg PD,2018,12,6085dbe24d36b6325a403a89,20
+Orange,Cornwall Town PD,2018,12,6085dbe24d36b6325a403a8a,40
+Orange,Crawford Town PD,2018,12,6085dbe24d36b6325a403a8c,186
+Orange,Deerpark Town PD,2018,12,6085dbe24d36b6325a403a8d,138
+Orange,Florida Vg PD,2018,12,6085dbe24d36b6325a403a8e,10
+Orange,Goshen Town PD,2018,12,6085dbe24d36b6325a403a8f,90
+Orange,Goshen Vg PD,2018,12,6085dbe24d36b6325a403a90,84
+Orange,Greenwood Lake Vg PD,2018,12,6085dbe24d36b6325a403a91,42
+Orange,Harriman Vg PD,2018,12,6085dbe24d36b6325a403a92,62
+Orange,Highland Falls Vg PD,2018,12,6085dbe24d36b6325a403a93,32
+Orange,Highlands Town PD,2018,12,6085dbe24d36b6325a403a94,10
+Orange,Maybrook Vg PD,2018,12,6085dbe24d36b6325a403a95,22
+Orange,Middletown City PD,2018,12,6085dbe24d36b6325a403a96,1240
+Orange,Monroe Vg PD,2018,12,6085dbe24d36b6325a403a97,184
+Orange,Montgomery Town PD,2018,12,6085dbe24d36b6325a403a98,76
+Orange,Montgomery Vg PD,2018,12,6085dbe24d36b6325a403a99,30
+Orange,Mount Hope Town PD,2018,12,6085dbe24d36b6325a403a9a,14
+Orange,Newburgh City PD,2018,12,6085dbe24d36b6325a403a9b,1972
+Orange,Newburgh Town PD,2018,12,6085dbe24d36b6325a403a9c,2024
+Orange,New Windsor Town PD,2018,12,6085dbe24d36b6325a403a9d,738
+Orange,Orange County MTA,2018,12,6085dbe24d36b6325a403a9e,4
+Orange,Orange County Park PD,2018,12,6085dbe24d36b6325a403a9f,12
+Orange,Orange County Sheriff,2018,12,6085dbe24d36b6325a403aa0,52
+Orange,Orange County State Police,2018,12,6085dbe24d36b6325a403aa1,1604
+Orange,Port Jervis City PD,2018,12,6085dbe24d36b6325a403aa2,376
+Orange,Tuxedo Park Vg PD,2018,12,6085dbe24d36b6325a403aa3,22
+Orange,Tuxedo Town PD,2018,12,6085dbe24d36b6325a403aa4,14
+Orange,Walden Vg PD,2018,12,6085dbe24d36b6325a403aa5,140
+Orange,Wallkill Town PD,2018,12,6085dbe24d36b6325a403aa6,1176
+Orange,Warwick Town PD,2018,12,6085dbe24d36b6325a403aa7,258
+Orange,Washingtonville Vg PD,2018,12,6085dbe24d36b6325a403aa8,80
+Orange,Woodbury Town PD,2018,12,6085dbe24d36b6325a403aa9,846
+Orleans,Albion Vg PD,2018,12,6085dbe24d36b6325a403aaa,384
+Orleans,Holley Vg PD,2018,12,6085dbe24d36b6325a403aac,42
+Orleans,Medina Vg PD,2018,12,6085dbe24d36b6325a403aad,220
+Orleans,Orleans County Sheriff,2018,12,6085dbe24d36b6325a403aae,370
+Orleans,Orleans County State Police,2018,12,6085dbe24d36b6325a403aaf,184
+Oswego,Central Square Vg PD,2018,12,6085dbe24d36b6325a403ab0,104
+Oswego,Fulton City PD,2018,12,6085dbe24d36b6325a403ab2,808
+Oswego,Oswego City PD,2018,12,6085dbe24d36b6325a403ab3,982
+Oswego,Oswego County Sheriff,2018,12,6085dbe24d36b6325a403ab4,734
+Oswego,Oswego County State Police,2018,12,6085dbe24d36b6325a403ab5,1222
+Oswego,Phoenix Vg PD,2018,12,6085dbe24d36b6325a403ab6,36
+Oswego,Pulaski Vg PD,2018,12,6085dbe24d36b6325a403ab7,46
+Oswego,SUNY Police - Oswego,2018,12,6085dbe24d36b6325a403ab8,134
+Otsego,Cooperstown Vg PD,2018,12,6085dbe24d36b6325a403ab9,10
+Otsego,Oneonta City PD,2018,12,6085dbe24d36b6325a403abb,448
+Otsego,Otsego County Sheriff,2018,12,6085dbe24d36b6325a403abc,86
+Otsego,Otsego County State Police,2018,12,6085dbe24d36b6325a403abd,800
+Otsego,SUNY Police - Oneonta,2018,12,6085dbe24d36b6325a403abe,94
+Putnam,Brewster Vg PD,2018,12,6085dbe24d36b6325a403abf,20
+Putnam,Carmel Town PD,2018,12,6085dbe24d36b6325a403ac0,298
+Putnam,Cold Spring Vg PD,2018,12,6085dbe24d36b6325a403ac1,20
+Putnam,Kent Town PD,2018,12,6085dbe24d36b6325a403ac3,104
+Putnam,Putnam County MTA,2018,12,6085dbe24d36b6325a403ac4,2
+Putnam,Putnam County Park PD,2018,12,6085dbe24d36b6325a403ac5,2
+Putnam,Putnam County Sheriff,2018,12,6085dbe24d36b6325a403ac6,336
+Putnam,Putnam County State Police,2018,12,6085dbe24d36b6325a403ac7,222
+Queens,County Total,2018,12,6085dbe24d36b6325a403ac8,66270
+Rensselaer,East Greenbush Town PD,2018,12,6085dbe24d36b6325a403aca,832
+Rensselaer,Hoosick Falls Vg PD,2018,12,6085dbe24d36b6325a403acb,84
+Rensselaer,Nassau Vg PD,2018,12,6085dbe24d36b6325a403acc,14
+Rensselaer,North Greenbush Town PD,2018,12,6085dbe24d36b6325a403acd,332
+Rensselaer,Rensselaer City PD,2018,12,6085dbe24d36b6325a403ace,196
+Rensselaer,Rensselaer County Park PD,2018,12,6085dbe24d36b6325a403acf,4
+Rensselaer,Rensselaer County Sheriff,2018,12,6085dbe24d36b6325a403ad0,396
+Rensselaer,Rensselaer County State Police,2018,12,6085dbe24d36b6325a403ad1,798
+Rensselaer,Rensselaer Poly Tech Police,2018,6,6085dbe24d36b6325a403ad2,24
+Rensselaer,Schodack Town PD,2018,12,6085dbe24d36b6325a403ad3,120
+Rensselaer,Troy City PD,2018,12,6085dbe24d36b6325a403ad4,3388
+Richmond,County Total,2018,12,6085dbe24d36b6325a403ad5,11476
+Rockland,Clarkstown Town PD,2018,12,6085dbe24d36b6325a403ad6,2562
+Rockland,Haverstraw Town PD,2018,12,6085dbe24d36b6325a403ad8,480
+Rockland,Orangetown Town PD,2018,12,6085dbe24d36b6325a403ad9,660
+Rockland,Piermont Vg PD,2018,12,6085dbe24d36b6325a403ada,14
+Rockland,Ramapo Town PD,2018,12,6085dbe24d36b6325a403adb,1226
+Rockland,Rockland County Park PD,2018,12,6085dbe24d36b6325a403adc,28
+Rockland,Rockland County Sheriff,2018,12,6085dbe24d36b6325a403add,68
+Rockland,Rockland County State Police,2018,12,6085dbe24d36b6325a403ade,36
+Rockland,South Nyack-Grand View PD,2018,12,6085dbe24d36b6325a403adf,72
+Rockland,Spring Valley Vg PD,2018,12,6085dbe24d36b6325a403ae0,1052
+Rockland,Stony Point Town PD,2018,12,6085dbe24d36b6325a403ae1,114
+Rockland,Suffern Vg PD,2018,12,6085dbe24d36b6325a403ae2,114
+Saratoga,Ballston Spa Vg PD,2018,12,6085dbe24d36b6325a403ae3,62
+Saratoga,Mechanicville City PD,2018,12,6085dbe24d36b6325a403ae5,108
+Saratoga,Saratoga County Park PD,2018,12,6085dbe24d36b6325a403ae6,34
+Saratoga,Saratoga County Sheriff,2018,12,6085dbe24d36b6325a403ae7,2350
+Saratoga,Saratoga County State Police,2018,12,6085dbe24d36b6325a403ae8,1372
+Saratoga,Saratoga Springs City PD,2018,12,6085dbe24d36b6325a403ae9,1062
+Saratoga,South Glens Falls Vg PD,2018,12,6085dbe24d36b6325a403aea,120
+Saratoga,Stillwater Town PD,2018,12,6085dbe24d36b6325a403aeb,28
+Saratoga,Waterford Town and Vg PD,2018,12,6085dbe24d36b6325a403aec,86
+Schenectady,Glenville Town PD,2018,12,6085dbe24d36b6325a403aee,628
+Schenectady,Niskayuna Town PD,2018,12,6085dbe24d36b6325a403aef,828
+Schenectady,Rotterdam Town PD,2018,12,6085dbe24d36b6325a403af0,1892
+Schenectady,Schenectady City PD,2018,12,6085dbe24d36b6325a403af1,5464
+Schenectady,Schenectady County Sheriff,2018,12,6085dbe24d36b6325a403af2,38
+Schenectady,Schenectady County State Police,2018,12,6085dbe24d36b6325a403af3,146
+Schenectady,Scotia Vg PD,2018,12,6085dbe24d36b6325a403af4,234
+Schoharie,Cobleskill Vg PD,2018,12,6085dbe24d36b6325a403af5,258
+Schoharie,Schoharie County Sheriff,2018,12,6085dbe24d36b6325a403af7,64
+Schoharie,Schoharie County State Police,2018,12,6085dbe24d36b6325a403af8,254
+Schoharie,SUNY Police - Cobleskill,2018,12,6085dbe24d36b6325a403af9,64
+Schuyler,Schuyler County Park PD,2018,12,6085dbe24d36b6325a403afb,2
+Schuyler,Schuyler County Sheriff,2018,12,6085dbe24d36b6325a403afc,46
+Schuyler,Schuyler County State Police,2018,12,6085dbe24d36b6325a403afd,34
+Schuyler,Watkins Glen Vg PD,2018,12,6085dbe24d36b6325a403afe,38
+Seneca,Seneca County Park PD,2018,12,6085dbe24d36b6325a403b00,8
+Seneca,Seneca County Sheriff,2018,12,6085dbe24d36b6325a403b01,120
+Seneca,Seneca County State Police,2018,12,6085dbe24d36b6325a403b02,258
+Seneca,Seneca Falls Town PD,2018,12,6085dbe24d36b6325a403b03,422
+Seneca,Waterloo Vg PD,2018,12,6085dbe24d36b6325a403b04,122
+Steuben,Addison Vg PD,2018,12,6085dbe24d36b6325a403b05,36
+Steuben,Bath Vg PD,2018,7,6085dbe24d36b6325a403b06,148
+Steuben,Canisteo Vg PD,2018,12,6085dbe24d36b6325a403b07,36
+Steuben,Cohocton Town PD,2018,12,6085dbe24d36b6325a403b08,2
+Steuben,Corning City PD,2018,12,6085dbe24d36b6325a403b09,592
+Steuben,Hammondsport Vg PD,2018,12,6085dbe24d36b6325a403b0b,12
+Steuben,Hornell City PD,2018,12,6085dbe24d36b6325a403b0c,232
+Steuben,Painted Post Vg PD,2018,5,6085dbe24d36b6325a403b0d,18
+Steuben,Steuben County Park PD,2018,12,6085dbe24d36b6325a403b0e,2
+Steuben,Steuben County Sheriff,2018,12,6085dbe24d36b6325a403b0f,192
+Steuben,Steuben County State Police,2018,12,6085dbe24d36b6325a403b10,798
+Steuben,Wayland Vg PD,2018,12,6085dbe24d36b6325a403b11,16
+St Lawrence,Canton Vg PD,2018,12,6085dbe24d36b6325a403b12,66
+St Lawrence,Massena Vg PD,2018,12,6085dbe24d36b6325a403b14,574
+St Lawrence,Norfolk Town PD,2018,12,6085dbe24d36b6325a403b15,8
+St Lawrence,Norwood Vg PD,2018,12,6085dbe24d36b6325a403b16,26
+St Lawrence,Ogdensburg City PD,2018,12,6085dbe24d36b6325a403b17,854
+St Lawrence,Potsdam Vg PD,2018,12,6085dbe24d36b6325a403b18,218
+St Lawrence,St Lawrence County Park PD,2018,12,6085dbe24d36b6325a403b19,6
+St Lawrence,St Lawrence County Sheriff,2018,12,6085dbe24d36b6325a403b1a,104
+St Lawrence,St Lawrence County State Police,2018,12,6085dbe24d36b6325a403b1b,776
+St Lawrence,SUNY Police - Canton,2018,12,6085dbe24d36b6325a403b1c,66
+St Lawrence,SUNY Police - Potsdam,2018,12,6085dbe24d36b6325a403b1d,104
+Suffolk,Amityville Vg PD,2018,12,6085dbe24d36b6325a403b1e,214
+Suffolk,Asharoken Vg PD,2018,12,6085dbe24d36b6325a403b1f,4
+Suffolk,East Hampton Town PD,2018,12,6085dbe24d36b6325a403b21,378
+Suffolk,East Hampton Vg PD,2018,12,6085dbe24d36b6325a403b22,72
+Suffolk,Huntington Bay Vg PD,2018,12,6085dbe24d36b6325a403b23,4
+Suffolk,Lloyd Harbor Vg PD,2018,12,6085dbe24d36b6325a403b24,24
+Suffolk,Nissequogue Vg PD,2018,12,6085dbe24d36b6325a403b25,16
+Suffolk,Northport Vg PD,2018,12,6085dbe24d36b6325a403b26,50
+Suffolk,Ocean Beach Vg PD,2018,12,6085dbe24d36b6325a403b27,22
+Suffolk,Quogue Vg PD,2018,12,6085dbe24d36b6325a403b28,48
+Suffolk,Riverhead Town PD,2018,12,6085dbe24d36b6325a403b29,1350
+Suffolk,Southampton Town PD,2018,12,6085dbe24d36b6325a403b2a,1154
+Suffolk,Southampton Vg PD,2018,12,6085dbe24d36b6325a403b2b,106
+Suffolk,Southold Town PD,2018,12,6085dbe24d36b6325a403b2c,484
+Suffolk,Suffolk County MTA,2018,12,6085dbe24d36b6325a403b2d,102
+Suffolk,Suffolk County Park PD,2018,12,6085dbe24d36b6325a403b2e,64
+Suffolk,Suffolk County PD,2018,12,6085dbe24d36b6325a403b2f,33006
+Suffolk,Suffolk County Sheriff,2018,12,6085dbe24d36b6325a403b30,110
+Suffolk,Suffolk County State Police,2018,12,6085dbe24d36b6325a403b31,84
+Suffolk,SUNY Police - Farmingdale,2018,12,6085dbe24d36b6325a403b32,60
+Suffolk,SUNY Police - Stony Brook,2018,12,6085dbe24d36b6325a403b33,446
+Suffolk,Westhampton Beach Vg PD,2018,12,6085dbe24d36b6325a403b34,98
+Sullivan,Fallsburg Town PD,2018,12,6085dbe24d36b6325a403b36,250
+Sullivan,Liberty Vg PD,2018,12,6085dbe24d36b6325a403b37,366
+Sullivan,Monticello Vg PD,2018,12,6085dbe24d36b6325a403b38,352
+Sullivan,Sullivan County Sheriff,2018,12,6085dbe24d36b6325a403b39,654
+Sullivan,Sullivan County State Police,2018,12,6085dbe24d36b6325a403b3a,724
+Sullivan,Woodridge Vg PD,2018,12,6085dbe24d36b6325a403b3b,50
+Tioga,Owego Vg PD,2018,12,6085dbe24d36b6325a403b3d,316
+Tioga,Tioga County Sheriff,2018,12,6085dbe24d36b6325a403b3e,250
+Tioga,Tioga County State Police,2018,12,6085dbe24d36b6325a403b3f,184
+Tioga,Waverly Vg PD,2018,12,6085dbe24d36b6325a403b40,44
+Tompkins,Cayuga Heights Vg PD,2018,12,6085dbe24d36b6325a403b41,18
+Tompkins,Cornell University Police,2018,12,6085dbe24d36b6325a403b42,468
+Tompkins,Dryden Vg PD,2018,12,6085dbe24d36b6325a403b44,72
+Tompkins,Groton Vg PD,2018,12,6085dbe24d36b6325a403b45,68
+Tompkins,Ithaca City PD,2018,12,6085dbe24d36b6325a403b46,1814
+Tompkins,Ithaca College PD,2018,12,6085dbe24d36b6325a403b47,206
+Tompkins,Tompkins County Park PD,2018,12,6085dbe24d36b6325a403b48,10
+Tompkins,Tompkins County Sheriff,2018,12,6085dbe24d36b6325a403b49,576
+Tompkins,Tompkins County State Police,2018,12,6085dbe24d36b6325a403b4a,582
+Tompkins,Trumansburg Vg PD,2018,12,6085dbe24d36b6325a403b4b,20
+Ulster,Ellenville Vg PD,2018,12,6085dbe24d36b6325a403b4d,164
+Ulster,Kingston City PD,2018,12,6085dbe24d36b6325a403b4e,1094
+Ulster,Lloyd Town PD,2018,12,6085dbe24d36b6325a403b4f,168
+Ulster,Marlborough Town PD,2018,12,6085dbe24d36b6325a403b50,86
+Ulster,New Paltz Town and Vg PD,2018,12,6085dbe24d36b6325a403b51,330
+Ulster,Olive Town PD,2018,12,6085dbe24d36b6325a403b52,22
+Ulster,Plattekill Town PD,2018,12,6085dbe24d36b6325a403b53,62
+Ulster,Rosendale Town PD,2018,12,6085dbe24d36b6325a403b54,46
+Ulster,Saugerties Town PD,2018,12,6085dbe24d36b6325a403b55,484
+Ulster,Shandaken Town PD,2018,12,6085dbe24d36b6325a403b56,30
+Ulster,Shawangunk Town PD,2018,12,6085dbe24d36b6325a403b57,96
+Ulster,SUNY Police - New Paltz,2018,12,6085dbe24d36b6325a403b58,60
+Ulster,Ulster County Park PD,2018,12,6085dbe24d36b6325a403b59,2
+Ulster,Ulster County Sheriff,2018,12,6085dbe24d36b6325a403b5a,334
+Ulster,Ulster County State Police,2018,12,6085dbe24d36b6325a403b5b,926
+Ulster,Ulster Regional Gang Enforcement Narcotics Team,2018,12,6085dbe24d36b6325a403b5c,6
+Ulster,Ulster Town PD,2018,12,6085dbe24d36b6325a403b5d,490
+Ulster,Woodstock Town PD,2018,12,6085dbe24d36b6325a403b5e,124
+Warren,Bolton Town PD,2018,12,6085dbe24d36b6325a403b5f,10
+Warren,Glens Falls City PD,2018,12,6085dbe24d36b6325a403b61,348
+Warren,Warren County Sheriff,2018,12,6085dbe24d36b6325a403b62,1038
+Warren,Warren County State Police,2018,12,6085dbe24d36b6325a403b63,508
+Washington,Cambridge Vg PD,2018,12,6085dbe24d36b6325a403b64,32
+Washington,Fort Edward Vg PD,2018,12,6085dbe24d36b6325a403b66,22
+Washington,Granville Vg PD,2018,12,6085dbe24d36b6325a403b67,44
+Washington,Greenwich Vg PD,2018,12,6085dbe24d36b6325a403b68,20
+Washington,Hudson Falls Vg PD,2018,12,6085dbe24d36b6325a403b69,106
+Washington,Washington County Sheriff,2018,12,6085dbe24d36b6325a403b6a,398
+Washington,Washington County State Police,2018,12,6085dbe24d36b6325a403b6b,252
+Wayne,Clyde Vg PD,2018,12,6085dbe24d36b6325a403b6c,60
+Wayne,Macedon Town and Vg PD,2018,12,6085dbe24d36b6325a403b6e,196
+Wayne,Newark Vg PD,2018,12,6085dbe24d36b6325a403b6f,554
+Wayne,Palmyra Vg PD,2018,12,6085dbe24d36b6325a403b70,26
+Wayne,Sodus Vg PD,2018,12,6085dbe24d36b6325a403b71,8
+Wayne,Wayne County Park PD,2018,12,6085dbe24d36b6325a403b72,2
+Wayne,Wayne County Sheriff,2018,12,6085dbe24d36b6325a403b73,966
+Wayne,Wayne County State Police,2018,12,6085dbe24d36b6325a403b74,1132
+Wayne,Wolcott Vg PD,2018,12,6085dbe24d36b6325a403b75,18
+Westchester,Ardsley Vg PD,2018,12,6085dbe24d36b6325a403b76,56
+Westchester,Bedford Town PD,2018,12,6085dbe24d36b6325a403b77,90
+Westchester,Briarcliff Manor Vg PD,2018,12,6085dbe24d36b6325a403b78,32
+Westchester,Bronxville Vg PD,2018,12,6085dbe24d36b6325a403b79,50
+Westchester,Buchanan Vg PD,2018,12,6085dbe24d36b6325a403b7a,6
+Westchester,Croton-On-Hudson Vg PD,2018,12,6085dbe24d36b6325a403b7c,66
+Westchester,Dobbs Ferry Vg PD,2018,12,6085dbe24d36b6325a403b7d,192
+Westchester,Eastchester Town PD,2018,12,6085dbe24d36b6325a403b7e,188
+Westchester,Elmsford Vg PD,2018,12,6085dbe24d36b6325a403b7f,44
+Westchester,Greenburgh Town PD,2018,12,6085dbe24d36b6325a403b80,1198
+Westchester,Harrison Town PD,2018,12,6085dbe24d36b6325a403b81,202
+Westchester,Hastings-on-Hudson Vg PD,2018,12,6085dbe24d36b6325a403b82,158
+Westchester,Irvington Vg PD,2018,12,6085dbe24d36b6325a403b83,38
+Westchester,Larchmont Vg PD,2018,12,6085dbe24d36b6325a403b84,154
+Westchester,Mamaroneck Town PD,2018,12,6085dbe24d36b6325a403b85,150
+Westchester,Mamaroneck Vg PD,2018,12,6085dbe24d36b6325a403b86,280
+Westchester,Mount Pleasant Town PD,2018,12,6085dbe24d36b6325a403b87,440
+Westchester,Mount Vernon City PD,2018,12,6085dbe24d36b6325a403b88,2662
+Westchester,New Castle Town PD,2018,12,6085dbe24d36b6325a403b89,108
+Westchester,New Rochelle City PD,2018,12,6085dbe24d36b6325a403b8a,2006
+Westchester,North Castle Town PD,2018,12,6085dbe24d36b6325a403b8b,122
+Westchester,NYC DEPP - Eastview PCT,2018,12,6085dbe24d36b6325a403b8c,16
+Westchester,Ossining Vg PD,2018,12,6085dbe24d36b6325a403b8d,406
+Westchester,Peekskill City PD,2018,12,6085dbe24d36b6325a403b8e,548
+Westchester,Pelham Manor Vg PD,2018,12,6085dbe24d36b6325a403b8f,318
+Westchester,Pelham Vg PD,2018,12,6085dbe24d36b6325a403b90,132
+Westchester,Pleasantville Vg PD,2018,12,6085dbe24d36b6325a403b91,80
+Westchester,Port Chester Vg PD,2018,12,6085dbe24d36b6325a403b92,414
+Westchester,Pound Ridge Town PD,2018,12,6085dbe24d36b6325a403b93,96
+Westchester,Rye Brook Vg PD,2018,12,6085dbe24d36b6325a403b94,92
+Westchester,Rye City PD,2018,12,6085dbe24d36b6325a403b95,124
+Westchester,Scarsdale Vg PD,2018,12,6085dbe24d36b6325a403b96,250
+Westchester,Sleepy Hollow Vg PD,2018,12,6085dbe24d36b6325a403b97,2
+Westchester,SUNY Police - Purchase,2018,12,6085dbe24d36b6325a403b98,64
+Westchester,Tarrytown Vg PD,2018,12,6085dbe24d36b6325a403b99,96
+Westchester,Tuckahoe Vg PD,2018,12,6085dbe24d36b6325a403b9a,36
+Westchester,Westchester Co Dept Pub Safety,2018,12,6085dbe24d36b6325a403b9b,550
+Westchester,Westchester County MTA,2018,12,6085dbe24d36b6325a403b9c,176
+Westchester,Westchester County Park PD,2018,12,6085dbe24d36b6325a403b9d,6
+Westchester,Westchester County State Police,2018,12,6085dbe24d36b6325a403b9e,830
+Westchester,White Plains City PD,2018,12,6085dbe24d36b6325a403b9f,1894
+Westchester,Yonkers City PD,2018,12,6085dbe24d36b6325a403ba0,4914
+Westchester,Yorktown Town PD,2018,12,6085dbe24d36b6325a403ba1,398
+Wyoming,Arcade Vg PD,2018,12,6085dbe24d36b6325a403ba2,36
+Wyoming,Attica Vg PD,2018,12,6085dbe24d36b6325a403ba3,14
+Wyoming,Perry Vg PD,2018,12,6085dbe24d36b6325a403ba5,130
+Wyoming,Warsaw Vg PD,2018,12,6085dbe24d36b6325a403ba6,144
+Wyoming,Wyoming County Park PD,2018,12,6085dbe24d36b6325a403ba7,4
+Wyoming,Wyoming County Sheriff,2018,12,6085dbe24d36b6325a403ba8,262
+Wyoming,Wyoming County State Police,2018,12,6085dbe24d36b6325a403ba9,76
+Yates,Penn Yan Vg PD,2018,12,6085dbe24d36b6325a403bab,144
+Yates,Yates County Sheriff,2018,12,6085dbe24d36b6325a403bac,276
+Yates,Yates County State Police,2018,12,6085dbe24d36b6325a403bad,70
+Albany,Albany City PD,2017,12,6085dbe24d36b6325a403bae,8564
+Albany,Albany County Park PD,2017,12,6085dbe24d36b6325a403baf,6
+Albany,Albany County Sheriff,2017,12,6085dbe24d36b6325a403bb0,326
+Albany,Albany County State Police,2017,12,6085dbe24d36b6325a403bb1,370
+Albany,Altamont Vg PD,2017,12,6085dbe24d36b6325a403bb2,12
+Albany,Bethlehem Town PD,2017,12,6085dbe24d36b6325a403bb3,1012
+Albany,Coeymans Town PD,2017,12,6085dbe24d36b6325a403bb4,174
+Albany,Cohoes City PD,2017,12,6085dbe24d36b6325a403bb5,484
+Albany,Colonie Town PD,2017,12,6085dbe24d36b6325a403bb6,3972
+Albany,Green Island Vg PD,2017,12,6085dbe24d36b6325a403bb8,68
+Albany,Guilderland Town PD,2017,12,6085dbe24d36b6325a403bb9,1426
+Albany,Menands Vg PD,2017,12,6085dbe24d36b6325a403bba,322
+Albany,SUNY Police - Albany,2017,12,6085dbe24d36b6325a403bbb,332
+Albany,SUNY Police - Nanoscale Science and Engineering,2017,12,6085dbe24d36b6325a403bbc,6
+Albany,Watervliet City PD,2017,12,6085dbe24d36b6325a403bbd,500
+Allegany,Alfred Vg PD,2017,12,6085dbe24d36b6325a403bbe,80
+Allegany,Allegany County State Police,2017,12,6085dbe24d36b6325a403bbf,520
+Allegany,Angelica Vg PD,2017,12,6085dbe24d36b6325a403bc0,2
+Allegany,Bolivar Vg PD,2017,11,6085dbe24d36b6325a403bc1,6
+Allegany,Cuba Town PD,2017,12,6085dbe24d36b6325a403bc3,104
+Allegany,Friendship Town PD,2017,12,6085dbe24d36b6325a403bc4,10
+Allegany,Independence Town PD,2017,12,6085dbe24d36b6325a403bc5,6
+Allegany,SUNY Police - Alfred,2017,12,6085dbe24d36b6325a403bc6,128
+Allegany,Wellsville Vg PD,2017,12,6085dbe24d36b6325a403bc7,160
+Bronx,County Total,2017,12,6085dbe24d36b6325a403bc8,71014
+Broome,Binghamton City PD,2017,12,6085dbe24d36b6325a403bc9,4682
+Broome,Broome County Sheriff,2017,12,6085dbe24d36b6325a403bca,1104
+Broome,Broome County State Police,2017,12,6085dbe24d36b6325a403bcb,1048
+Broome,Deposit Vg PD,2017,12,6085dbe24d36b6325a403bcd,28
+Broome,Endicott Vg PD,2017,12,6085dbe24d36b6325a403bce,1006
+Broome,Johnson City Vg PD,2017,12,6085dbe24d36b6325a403bcf,1694
+Broome,Port Dickinson Vg PD,2017,12,6085dbe24d36b6325a403bd0,32
+Broome,SUNY Police - Binghamton,2017,12,6085dbe24d36b6325a403bd1,384
+Broome,Vestal Town PD,2017,12,6085dbe24d36b6325a403bd2,1190
+Cattaraugus,Allegany Vg PD,2017,12,6085dbe24d36b6325a403bd3,26
+Cattaraugus,Cattaraugus County Park PD,2017,12,6085dbe24d36b6325a403bd4,16
+Cattaraugus,Cattaraugus County Sheriff,2017,12,6085dbe24d36b6325a403bd5,664
+Cattaraugus,Cattaraugus County State Police,2017,12,6085dbe24d36b6325a403bd6,534
+Cattaraugus,Cattaraugus Vg PD,2017,12,6085dbe24d36b6325a403bd7,2
+Cattaraugus,Ellicottville Town PD,2017,12,6085dbe24d36b6325a403bd9,30
+Cattaraugus,Franklinville Vg PD,2017,12,6085dbe24d36b6325a403bda,42
+Cattaraugus,Olean City PD,2017,12,6085dbe24d36b6325a403bdb,824
+Cattaraugus,Salamanca City PD,2017,12,6085dbe24d36b6325a403bdc,206
+Cayuga,Auburn City PD,2017,12,6085dbe24d36b6325a403bdd,1860
+Cayuga,Cayuga County Park PD,2017,12,6085dbe24d36b6325a403bde,2
+Cayuga,Cayuga County Sheriff,2017,12,6085dbe24d36b6325a403bdf,416
+Cayuga,Cayuga County State Police,2017,12,6085dbe24d36b6325a403be0,414
+Cayuga,Moravia Vg PD,2017,12,6085dbe24d36b6325a403be2,14
+Cayuga,Port Byron Vg PD,2017,12,6085dbe24d36b6325a403be3,2
+Cayuga,Weedsport Vg PD,2017,12,6085dbe24d36b6325a403be4,30
+Chautauqua,Chautauqua County Park PD,2017,12,6085dbe24d36b6325a403be5,2
+Chautauqua,Chautauqua County Sheriff,2017,12,6085dbe24d36b6325a403be6,1028
+Chautauqua,Chautauqua County State Police,2017,12,6085dbe24d36b6325a403be7,390
+Chautauqua,Dunkirk City PD,2017,12,6085dbe24d36b6325a403be9,478
+Chautauqua,Ellicott Town PD,2017,12,6085dbe24d36b6325a403bea,388
+Chautauqua,Fredonia Vg PD,2017,12,6085dbe24d36b6325a403beb,340
+Chautauqua,Jamestown City PD,2017,12,6085dbe24d36b6325a403bec,2158
+Chautauqua,Lakewood-Busti PD,2017,12,6085dbe24d36b6325a403bed,674
+Chautauqua,SUNY Police - Fredonia,2017,12,6085dbe24d36b6325a403bee,98
+Chautauqua,Westfield Vg PD,2017,12,6085dbe24d36b6325a403bef,26
+Chemung,Chemung County Sheriff,2017,12,6085dbe24d36b6325a403bf0,548
+Chemung,Chemung County State Police,2017,12,6085dbe24d36b6325a403bf1,492
+Chemung,Elmira City PD,2017,12,6085dbe24d36b6325a403bf3,1886
+Chemung,Elmira Heights Vg PD,2017,12,6085dbe24d36b6325a403bf4,118
+Chemung,Elmira Town PD,2017,12,6085dbe24d36b6325a403bf5,4
+Chemung,Horseheads Vg PD,2017,12,6085dbe24d36b6325a403bf6,86
+Chenango,Afton Vg PD,2017,12,6085dbe24d36b6325a403bf7,4
+Chenango,Bainbridge Vg PD,2017,12,6085dbe24d36b6325a403bf8,8
+Chenango,Chenango County Park PD,2017,12,6085dbe24d36b6325a403bf9,2
+Chenango,Chenango County Sheriff,2017,12,6085dbe24d36b6325a403bfa,538
+Chenango,Chenango County State Police,2017,12,6085dbe24d36b6325a403bfb,364
+Chenango,Greene Vg PD,2017,12,6085dbe24d36b6325a403bfd,26
+Chenango,New Berlin Town PD,2017,12,6085dbe24d36b6325a403bfe,34
+Chenango,Norwich City PD,2017,12,6085dbe24d36b6325a403bff,430
+Chenango,Oxford Vg PD,2017,10,6085dbe24d36b6325a403c00,6
+Chenango,Sherburne Vg PD,2017,12,6085dbe24d36b6325a403c01,18
+Clinton,Clinton County Park PD,2017,12,6085dbe24d36b6325a403c02,2
+Clinton,Clinton County Sheriff,2017,12,6085dbe24d36b6325a403c03,66
+Clinton,Clinton County State Police,2017,12,6085dbe24d36b6325a403c04,1498
+Clinton,Plattsburgh City PD,2017,12,6085dbe24d36b6325a403c06,774
+Clinton,Rouses Point Vg PD,2017,5,6085dbe24d36b6325a403c07,10
+Clinton,SUNY Police - Plattsburgh,2017,12,6085dbe24d36b6325a403c08,80
+Columbia,Chatham Vg PD,2017,12,6085dbe24d36b6325a403c09,6
+Columbia,Columbia County Park PD,2017,12,6085dbe24d36b6325a403c0a,6
+Columbia,Columbia County Sheriff,2017,12,6085dbe24d36b6325a403c0b,718
+Columbia,Columbia County State Police,2017,12,6085dbe24d36b6325a403c0c,444
+Columbia,Germantown Town PD,2017,12,6085dbe24d36b6325a403c0e,2
+Columbia,Greenport Town PD,2017,12,6085dbe24d36b6325a403c0f,234
+Columbia,Hudson City PD,2017,12,6085dbe24d36b6325a403c10,510
+Columbia,Philmont Vg PD,2017,12,6085dbe24d36b6325a403c11,12
+Columbia,Stockport Town PD,2017,12,6085dbe24d36b6325a403c12,6
+Cortland,Cortland City PD,2017,12,6085dbe24d36b6325a403c13,670
+Cortland,Cortland County Sheriff,2017,12,6085dbe24d36b6325a403c14,850
+Cortland,Cortland County State Police,2017,12,6085dbe24d36b6325a403c15,352
+Cortland,Homer Vg PD,2017,12,6085dbe24d36b6325a403c17,16
+Cortland,SUNY Police - Cortland,2017,12,6085dbe24d36b6325a403c18,100
+Delaware,Colchester Town PD,2017,12,6085dbe24d36b6325a403c19,20
+Delaware,Delaware County Sheriff,2017,12,6085dbe24d36b6325a403c1b,348
+Delaware,Delaware County State Police,2017,12,6085dbe24d36b6325a403c1c,310
+Delaware,Delhi Vg PD,2017,12,6085dbe24d36b6325a403c1d,58
+Delaware,Hancock Vg PD,2017,12,6085dbe24d36b6325a403c1e,28
+Delaware,Sidney Vg PD,2017,12,6085dbe24d36b6325a403c1f,202
+Delaware,SUNY Police - Delhi,2017,12,6085dbe24d36b6325a403c20,58
+Delaware,Walton Vg PD,2017,3,6085dbe24d36b6325a403c21,16
+Dutchess,Beacon City PD,2017,12,6085dbe24d36b6325a403c22,566
+Dutchess,Dutchess County MTA,2017,12,6085dbe24d36b6325a403c24,24
+Dutchess,Dutchess County Park PD,2017,12,6085dbe24d36b6325a403c25,16
+Dutchess,Dutchess County Sheriff,2017,12,6085dbe24d36b6325a403c26,954
+Dutchess,Dutchess County State Police,2017,12,6085dbe24d36b6325a403c27,1338
+Dutchess,East Fishkill Town PD,2017,12,6085dbe24d36b6325a403c28,324
+Dutchess,Fishkill Town PD,2017,12,6085dbe24d36b6325a403c29,256
+Dutchess,Fishkill Vg PD,2017,12,6085dbe24d36b6325a403c2a,60
+Dutchess,Hyde Park Town PD,2017,12,6085dbe24d36b6325a403c2b,232
+Dutchess,Millerton Vg PD,2017,12,6085dbe24d36b6325a403c2c,18
+Dutchess,Poughkeepsie City PD,2017,12,6085dbe24d36b6325a403c2d,1642
+Dutchess,Poughkeepsie Town PD,2017,12,6085dbe24d36b6325a403c2e,2460
+Dutchess,Red Hook Vg PD,2017,11,6085dbe24d36b6325a403c2f,74
+Dutchess,Rhinebeck Vg PD,2017,12,6085dbe24d36b6325a403c30,82
+Dutchess,Wappingers Falls Vg PD,2017,12,6085dbe24d36b6325a403c31,142
+Erie,Akron Vg PD,2017,12,6085dbe24d36b6325a403c32,22
+Erie,Amherst Town PD,2017,12,6085dbe24d36b6325a403c33,3984
+Erie,Brant Town PD,2017,12,6085dbe24d36b6325a403c34,34
+Erie,Buffalo City PD,2017,12,6085dbe24d36b6325a403c35,24870
+Erie,Cheektowaga Town PD,2017,12,6085dbe24d36b6325a403c36,4966
+Erie,Depew Vg PD,2017,12,6085dbe24d36b6325a403c38,526
+Erie,East Aurora-Town Of Aurora PD,2017,12,6085dbe24d36b6325a403c39,188
+Erie,Eden Town PD,2017,12,6085dbe24d36b6325a403c3a,84
+Erie,Erie County Park PD,2017,12,6085dbe24d36b6325a403c3b,20
+Erie,Erie County Sheriff,2017,12,6085dbe24d36b6325a403c3c,1390
+Erie,Erie County State Police,2017,12,6085dbe24d36b6325a403c3d,570
+Erie,Evans Town PD,2017,12,6085dbe24d36b6325a403c3e,466
+Erie,Gowanda Vg PD,2017,12,6085dbe24d36b6325a403c3f,42
+Erie,Hamburg Town PD,2017,12,6085dbe24d36b6325a403c40,1822
+Erie,Hamburg Vg PD,2017,12,6085dbe24d36b6325a403c41,208
+Erie,Kenmore Vg PD,2017,12,6085dbe24d36b6325a403c42,488
+Erie,Lackawanna City PD,2017,12,6085dbe24d36b6325a403c43,864
+Erie,Lancaster Town PD,2017,12,6085dbe24d36b6325a403c44,858
+Erie,Orchard Park Town PD,2017,12,6085dbe24d36b6325a403c45,568
+Erie,SUNY Police - Buffalo,2017,12,6085dbe24d36b6325a403c46,488
+Erie,SUNY Police - Buffalo State College,2017,12,6085dbe24d36b6325a403c47,330
+Erie,Tonawanda City PD,2017,12,6085dbe24d36b6325a403c48,712
+Erie,Tonawanda Town PD,2017,12,6085dbe24d36b6325a403c49,2024
+Erie,West Seneca Town PD,2017,12,6085dbe24d36b6325a403c4a,1214
+Essex,Essex County Sheriff,2017,12,6085dbe24d36b6325a403c4c,8
+Essex,Essex County State Police,2017,12,6085dbe24d36b6325a403c4d,658
+Essex,Lake Placid Vg PD,2017,12,6085dbe24d36b6325a403c4e,68
+Essex,Moriah Town PD,2017,12,6085dbe24d36b6325a403c4f,4
+Essex,Ticonderoga Town PD,2017,12,6085dbe24d36b6325a403c50,102
+Franklin,Franklin County State Police,2017,12,6085dbe24d36b6325a403c52,740
+Franklin,Malone Vg PD,2017,12,6085dbe24d36b6325a403c53,326
+Franklin,Saranac Lake Vg PD,2017,12,6085dbe24d36b6325a403c54,122
+Franklin,Tupper Lake Vg PD,2017,12,6085dbe24d36b6325a403c55,188
+Fulton,Fulton County Sheriff,2017,12,6085dbe24d36b6325a403c57,666
+Fulton,Fulton County State Police,2017,12,6085dbe24d36b6325a403c58,204
+Fulton,Gloversville City PD,2017,12,6085dbe24d36b6325a403c59,852
+Fulton,Johnstown City PD,2017,12,6085dbe24d36b6325a403c5a,444
+Fulton,Northville Vg PD,2017,12,6085dbe24d36b6325a403c5b,10
+Genesee,Batavia City PD,2017,12,6085dbe24d36b6325a403c5c,1156
+Genesee,Genesee County Sheriff,2017,12,6085dbe24d36b6325a403c5e,806
+Genesee,Genesee County State Police,2017,12,6085dbe24d36b6325a403c5f,216
+Genesee,LeRoy Vg PD,2017,12,6085dbe24d36b6325a403c60,108
+Greene,Athens Vg PD,2017,12,6085dbe24d36b6325a403c61,2
+Greene,Cairo Town PD,2017,12,6085dbe24d36b6325a403c62,80
+Greene,Catskill Vg PD,2017,12,6085dbe24d36b6325a403c63,294
+Greene,Coxsackie Vg PD,2017,12,6085dbe24d36b6325a403c65,26
+Greene,Durham Town PD,2017,12,6085dbe24d36b6325a403c66,18
+Greene,Greene County Sheriff,2017,12,6085dbe24d36b6325a403c67,50
+Greene,Greene County State Police,2017,12,6085dbe24d36b6325a403c68,758
+Greene,Hunter Town PD,2017,6,6085dbe24d36b6325a403c69,16
+Greene,Windham Town PD,2017,12,6085dbe24d36b6325a403c6a,26
+Hamilton,Hamilton County Sheriff,2017,12,6085dbe24d36b6325a403c6c,16
+Hamilton,Hamilton County State Police,2017,12,6085dbe24d36b6325a403c6d,48
+Hamilton,Inlet Town PD,2017,12,6085dbe24d36b6325a403c6e,8
+Herkimer,Dolgeville Vg PD,2017,12,6085dbe24d36b6325a403c70,36
+Herkimer,Frankfort Town PD,2017,12,6085dbe24d36b6325a403c71,48
+Herkimer,Frankfort Vg PD,2017,12,6085dbe24d36b6325a403c72,62
+Herkimer,Herkimer County Sheriff,2017,12,6085dbe24d36b6325a403c73,12
+Herkimer,Herkimer County State Police,2017,12,6085dbe24d36b6325a403c74,490
+Herkimer,Herkimer Vg PD,2017,12,6085dbe24d36b6325a403c75,748
+Herkimer,Ilion Vg PD,2017,12,6085dbe24d36b6325a403c76,570
+Herkimer,Little Falls City PD,2017,12,6085dbe24d36b6325a403c77,278
+Herkimer,Mohawk Vg PD,2017,12,6085dbe24d36b6325a403c78,68
+Herkimer,Webb Town PD,2017,12,6085dbe24d36b6325a403c79,10
+Jefferson,Adams Vg PD,2017,12,6085dbe24d36b6325a403c7a,8
+Jefferson,Alexandria Bay Vg PD,2017,12,6085dbe24d36b6325a403c7b,12
+Jefferson,Black River Vg PD,2017,12,6085dbe24d36b6325a403c7c,12
+Jefferson,Brownville Vg PD,2017,12,6085dbe24d36b6325a403c7d,6
+Jefferson,Cape Vincent Vg PD,2017,12,6085dbe24d36b6325a403c7e,8
+Jefferson,Carthage Vg PD,2017,12,6085dbe24d36b6325a403c7f,128
+Jefferson,Clayton Vg PD,2017,12,6085dbe24d36b6325a403c80,12
+Jefferson,Dexter Vg PD,2017,12,6085dbe24d36b6325a403c82,2
+Jefferson,Glen Park Vg PD,2017,12,6085dbe24d36b6325a403c83,6
+Jefferson,Jefferson County Park PD,2017,12,6085dbe24d36b6325a403c84,24
+Jefferson,Jefferson County Sheriff,2017,12,6085dbe24d36b6325a403c85,656
+Jefferson,Jefferson County State Police,2017,12,6085dbe24d36b6325a403c86,1210
+Jefferson,Watertown City PD,2017,12,6085dbe24d36b6325a403c87,2394
+Jefferson,West Carthage Vg PD,2017,12,6085dbe24d36b6325a403c88,42
+Kings,County Total,2017,12,6085dbe24d36b6325a403c89,99532
+Lewis,Lewis County Sheriff,2017,12,6085dbe24d36b6325a403c8b,222
+Lewis,Lewis County State Police,2017,12,6085dbe24d36b6325a403c8c,214
+Lewis,Lowville Vg PD,2017,12,6085dbe24d36b6325a403c8d,84
+Livingston,Avon Vg PD,2017,12,6085dbe24d36b6325a403c8e,26
+Livingston,Caledonia Vg PD,2017,12,6085dbe24d36b6325a403c8f,6
+Livingston,Dansville Vg PD,2017,12,6085dbe24d36b6325a403c91,220
+Livingston,Geneseo Vg PD,2017,12,6085dbe24d36b6325a403c92,330
+Livingston,Livingston County Sheriff,2017,12,6085dbe24d36b6325a403c93,650
+Livingston,Livingston County State Police,2017,12,6085dbe24d36b6325a403c94,96
+Livingston,Mount Morris Vg PD,2017,12,6085dbe24d36b6325a403c95,146
+Livingston,Nunda Town and Vg PD,2017,12,6085dbe24d36b6325a403c96,26
+Livingston,SUNY Police - Geneseo,2017,12,6085dbe24d36b6325a403c97,118
+Madison,Canastota Vg PD,2017,12,6085dbe24d36b6325a403c98,134
+Madison,Cazenovia Vg PD,2017,12,6085dbe24d36b6325a403c99,84
+Madison,Chittenango Vg PD,2017,12,6085dbe24d36b6325a403c9a,60
+Madison,Hamilton Vg PD,2017,12,6085dbe24d36b6325a403c9c,14
+Madison,Madison County Sheriff,2017,12,6085dbe24d36b6325a403c9d,338
+Madison,Madison County State Police,2017,12,6085dbe24d36b6325a403c9e,460
+Madison,Oneida City PD,2017,12,6085dbe24d36b6325a403c9f,820
+Madison,SUNY Police - Morrisville,2017,12,6085dbe24d36b6325a403ca0,58
+Monroe,Brighton Town PD,2017,12,6085dbe24d36b6325a403ca1,1614
+Monroe,Brockport Vg PD,2017,12,6085dbe24d36b6325a403ca2,214
+Monroe,East Rochester Vg PD,2017,12,6085dbe24d36b6325a403ca4,184
+Monroe,Fairport Vg PD,2017,12,6085dbe24d36b6325a403ca5,98
+Monroe,Gates Town PD,2017,12,6085dbe24d36b6325a403ca6,1802
+Monroe,Greece Town PD,2017,12,6085dbe24d36b6325a403ca7,4220
+Monroe,Irondequoit Town PD,2017,12,6085dbe24d36b6325a403ca8,2462
+Monroe,Monroe County Park PD,2017,12,6085dbe24d36b6325a403ca9,2
+Monroe,Monroe County Sheriff,2017,12,6085dbe24d36b6325a403caa,6070
+Monroe,Monroe County State Police,2017,12,6085dbe24d36b6325a403cab,166
+Monroe,Ogden Town PD,2017,12,6085dbe24d36b6325a403cac,446
+Monroe,Rochester City PD,2017,12,6085dbe24d36b6325a403cad,19614
+Monroe,SUNY Police - Brockport,2017,12,6085dbe24d36b6325a403cae,120
+Monroe,Webster Town and Vg PD,2017,12,6085dbe24d36b6325a403caf,886
+Montgomery,Amsterdam City PD,2017,12,6085dbe24d36b6325a403cb0,742
+Montgomery,Canajoharie Vg PD,2017,12,6085dbe24d36b6325a403cb1,38
+Montgomery,Fort Plain Vg PD,2017,12,6085dbe24d36b6325a403cb3,138
+Montgomery,Montgomery County Sheriff,2017,12,6085dbe24d36b6325a403cb4,690
+Montgomery,Montgomery County State Police,2017,12,6085dbe24d36b6325a403cb5,222
+Montgomery,St Johnsville Vg PD,2017,12,6085dbe24d36b6325a403cb6,48
+Nassau,Centre Island Vg PD,2017,12,6085dbe24d36b6325a403cb7,2
+Nassau,Floral Park Vg PD,2017,12,6085dbe24d36b6325a403cb9,102
+Nassau,Freeport Vg PD,2017,12,6085dbe24d36b6325a403cba,1002
+Nassau,Garden City Vg PD,2017,12,6085dbe24d36b6325a403cbb,432
+Nassau,Glen Cove City PD,2017,12,6085dbe24d36b6325a403cbc,318
+Nassau,Great Neck Estates Vg PD,2017,12,6085dbe24d36b6325a403cbd,14
+Nassau,Hempstead Vg PD,2017,12,6085dbe24d36b6325a403cbe,1850
+Nassau,Kings Point Vg PD,2017,12,6085dbe24d36b6325a403cbf,24
+Nassau,Lake Success Vg PD,2017,12,6085dbe24d36b6325a403cc0,40
+Nassau,Long Beach City PD,2017,12,6085dbe24d36b6325a403cc1,440
+Nassau,Lynbrook Vg PD,2017,12,6085dbe24d36b6325a403cc2,240
+Nassau,Malverne Vg PD,2017,12,6085dbe24d36b6325a403cc3,46
+Nassau,Nassau County MTA,2017,12,6085dbe24d36b6325a403cc4,130
+Nassau,Nassau County Park PD,2017,12,6085dbe24d36b6325a403cc5,128
+Nassau,Nassau County PD,2017,12,6085dbe24d36b6325a403cc6,22432
+Nassau,Nassau County State Police,2017,12,6085dbe24d36b6325a403cc7,36
+Nassau,Old Brookville Vg PD,2017,12,6085dbe24d36b6325a403cc8,70
+Nassau,Old Westbury Vg PD,2017,12,6085dbe24d36b6325a403cc9,46
+Nassau,Oyster Bay Cove Vg PD,2017,12,6085dbe24d36b6325a403cca,28
+Nassau,Port Washington Police District,2017,12,6085dbe24d36b6325a403ccb,210
+Nassau,Rockville Centre Vg PD,2017,12,6085dbe24d36b6325a403ccc,420
+Nassau,Sands Point Vg PD,2017,12,6085dbe24d36b6325a403ccd,20
+New York,County Total,2017,12,6085dbe24d36b6325a403cce,94292
+Niagara,Lewiston Town PD,2017,12,6085dbe24d36b6325a403cd0,270
+Niagara,Lockport City PD,2017,12,6085dbe24d36b6325a403cd1,1104
+Niagara,Middleport Vg PD,2017,12,6085dbe24d36b6325a403cd2,66
+Niagara,Niagara County Park PD,2017,12,6085dbe24d36b6325a403cd3,112
+Niagara,Niagara County Sheriff,2017,12,6085dbe24d36b6325a403cd4,1518
+Niagara,Niagara County State Police,2017,12,6085dbe24d36b6325a403cd5,530
+Niagara,Niagara Falls City PD,2017,12,6085dbe24d36b6325a403cd6,5768
+Niagara,Niagara Town PD,2017,12,6085dbe24d36b6325a403cd7,734
+Niagara,North Tonawanda City PD,2017,12,6085dbe24d36b6325a403cd8,1088
+Niagara,Somerset Town PD,2017,3,6085dbe24d36b6325a403cd9,2
+Niagara,Youngstown Vg PD,2017,12,6085dbe24d36b6325a403cda,4
+Oneida,Boonville Vg PD,2017,11,6085dbe24d36b6325a403cdb,20
+Oneida,Camden Vg PD,2017,12,6085dbe24d36b6325a403cdc,50
+Oneida,Kirkland Town PD,2017,12,6085dbe24d36b6325a403cde,44
+Oneida,New Hartford Town and Vg PD,2017,12,6085dbe24d36b6325a403cdf,1226
+Oneida,New York Mills Vg PD,2017,12,6085dbe24d36b6325a403ce0,78
+Oneida,Oneida County Park PD,2017,12,6085dbe24d36b6325a403ce1,6
+Oneida,Oneida County Sheriff,2017,12,6085dbe24d36b6325a403ce2,822
+Oneida,Oneida County State Police,2017,12,6085dbe24d36b6325a403ce3,1058
+Oneida,Oriskany Vg PD,2017,12,6085dbe24d36b6325a403ce4,24
+Oneida,Rome City PD,2017,12,6085dbe24d36b6325a403ce5,1268
+Oneida,Sherrill City PD,2017,12,6085dbe24d36b6325a403ce6,42
+Oneida,SUNY Police - Polytechnic Institute,2017,12,6085dbe24d36b6325a403ce7,22
+Oneida,Utica City PD,2017,12,6085dbe24d36b6325a403ce8,4668
+Oneida,Vernon Vg PD,2017,12,6085dbe24d36b6325a403ce9,44
+Oneida,Whitesboro Vg PD,2017,12,6085dbe24d36b6325a403cea,72
+Oneida,Whitestown Town PD,2017,12,6085dbe24d36b6325a403ceb,62
+Oneida,Yorkville Vg PD,2017,12,6085dbe24d36b6325a403cec,58
+Onondaga,Baldwinsville Vg PD,2017,12,6085dbe24d36b6325a403ced,146
+Onondaga,Camillus Town and Vg PD,2017,12,6085dbe24d36b6325a403cee,626
+Onondaga,Cicero Town PD,2017,12,6085dbe24d36b6325a403cef,572
+Onondaga,DeWitt Town PD,2017,12,6085dbe24d36b6325a403cf1,1526
+Onondaga,Geddes Town PD,2017,12,6085dbe24d36b6325a403cf2,444
+Onondaga,Jordan Vg PD,2017,12,6085dbe24d36b6325a403cf3,2
+Onondaga,Liverpool Vg PD,2017,12,6085dbe24d36b6325a403cf4,62
+Onondaga,Manlius Town PD,2017,12,6085dbe24d36b6325a403cf5,716
+Onondaga,Marcellus Vg PD,2017,12,6085dbe24d36b6325a403cf6,14
+Onondaga,North Syracuse Vg PD,2017,12,6085dbe24d36b6325a403cf7,216
+Onondaga,Onondaga County Park PD,2017,12,6085dbe24d36b6325a403cf8,34
+Onondaga,Onondaga County Park Rangers,2017,12,6085dbe24d36b6325a403cf9,58
+Onondaga,Onondaga County Sheriff,2017,12,6085dbe24d36b6325a403cfa,3860
+Onondaga,Onondaga County State Police,2017,12,6085dbe24d36b6325a403cfb,1250
+Onondaga,Skaneateles Vg PD,2017,12,6085dbe24d36b6325a403cfc,38
+Onondaga,Solvay Vg PD,2017,12,6085dbe24d36b6325a403cfd,316
+Onondaga,SUNY Police - Environmental Science,2017,12,6085dbe24d36b6325a403cfe,34
+Onondaga,SUNY Police - Upstate Medical,2017,12,6085dbe24d36b6325a403cff,220
+Onondaga,Syracuse City PD,2017,12,6085dbe24d36b6325a403d00,11652
+Ontario,Canandaigua City PD,2017,12,6085dbe24d36b6325a403d01,486
+Ontario,Clifton Springs Vg PD,2017,12,6085dbe24d36b6325a403d02,6
+Ontario,Geneva City PD,2017,12,6085dbe24d36b6325a403d04,634
+Ontario,Manchester Vg PD,2017,12,6085dbe24d36b6325a403d05,2
+Ontario,Ontario County Park PD,2017,12,6085dbe24d36b6325a403d06,2
+Ontario,Ontario County Sheriff,2017,12,6085dbe24d36b6325a403d07,1584
+Ontario,Ontario County State Police,2017,12,6085dbe24d36b6325a403d08,528
+Ontario,Phelps Vg PD,2017,6,6085dbe24d36b6325a403d09,4
+Orange,Blooming Grove Town PD,2017,12,6085dbe24d36b6325a403d0a,146
+Orange,Chester Town PD,2017,12,6085dbe24d36b6325a403d0b,28
+Orange,Chester Vg PD,2017,12,6085dbe24d36b6325a403d0c,118
+Orange,Cornwall-on-Hudson Vg PD,2017,12,6085dbe24d36b6325a403d0d,50
+Orange,Cornwall Town PD,2017,12,6085dbe24d36b6325a403d0e,46
+Orange,Crawford Town PD,2017,12,6085dbe24d36b6325a403d10,214
+Orange,Deerpark Town PD,2017,12,6085dbe24d36b6325a403d11,166
+Orange,Florida Vg PD,2017,12,6085dbe24d36b6325a403d12,10
+Orange,Goshen Town PD,2017,12,6085dbe24d36b6325a403d13,186
+Orange,Goshen Vg PD,2017,12,6085dbe24d36b6325a403d14,112
+Orange,Greenwood Lake Vg PD,2017,12,6085dbe24d36b6325a403d15,44
+Orange,Harriman Vg PD,2017,12,6085dbe24d36b6325a403d16,44
+Orange,Highland Falls Vg PD,2017,12,6085dbe24d36b6325a403d17,98
+Orange,Highlands Town PD,2017,12,6085dbe24d36b6325a403d18,20
+Orange,Maybrook Vg PD,2017,12,6085dbe24d36b6325a403d19,22
+Orange,Middletown City PD,2017,12,6085dbe24d36b6325a403d1a,1522
+Orange,Monroe Vg PD,2017,12,6085dbe24d36b6325a403d1b,284
+Orange,Montgomery Town PD,2017,12,6085dbe24d36b6325a403d1c,128
+Orange,Montgomery Vg PD,2017,12,6085dbe24d36b6325a403d1d,38
+Orange,Mount Hope Town PD,2017,12,6085dbe24d36b6325a403d1e,10
+Orange,Newburgh City PD,2017,12,6085dbe24d36b6325a403d1f,2188
+Orange,Newburgh Town PD,2017,12,6085dbe24d36b6325a403d20,2166
+Orange,New Windsor Town PD,2017,12,6085dbe24d36b6325a403d21,778
+Orange,Orange County MTA,2017,12,6085dbe24d36b6325a403d22,8
+Orange,Orange County Park PD,2017,12,6085dbe24d36b6325a403d23,8
+Orange,Orange County Sheriff,2017,12,6085dbe24d36b6325a403d24,46
+Orange,Orange County State Police,2017,12,6085dbe24d36b6325a403d25,1640
+Orange,Port Jervis City PD,2017,12,6085dbe24d36b6325a403d26,496
+Orange,Tuxedo Town PD,2017,12,6085dbe24d36b6325a403d27,6
+Orange,Walden Vg PD,2017,12,6085dbe24d36b6325a403d28,174
+Orange,Wallkill Town PD,2017,12,6085dbe24d36b6325a403d29,1394
+Orange,Warwick Town PD,2017,12,6085dbe24d36b6325a403d2a,234
+Orange,Washingtonville Vg PD,2017,12,6085dbe24d36b6325a403d2b,72
+Orange,Woodbury Town PD,2017,12,6085dbe24d36b6325a403d2c,1018
+Orleans,Albion Vg PD,2017,12,6085dbe24d36b6325a403d2d,444
+Orleans,Holley Vg PD,2017,12,6085dbe24d36b6325a403d2f,62
+Orleans,Medina Vg PD,2017,12,6085dbe24d36b6325a403d30,346
+Orleans,Orleans County Sheriff,2017,12,6085dbe24d36b6325a403d31,530
+Orleans,Orleans County State Police,2017,12,6085dbe24d36b6325a403d32,146
+Oswego,Central Square Vg PD,2017,12,6085dbe24d36b6325a403d33,64
+Oswego,Fulton City PD,2017,12,6085dbe24d36b6325a403d35,694
+Oswego,Oswego City PD,2017,12,6085dbe24d36b6325a403d36,852
+Oswego,Oswego County Sheriff,2017,12,6085dbe24d36b6325a403d37,700
+Oswego,Oswego County State Police,2017,12,6085dbe24d36b6325a403d38,1382
+Oswego,Phoenix Vg PD,2017,12,6085dbe24d36b6325a403d39,52
+Oswego,Pulaski Vg PD,2017,12,6085dbe24d36b6325a403d3a,46
+Oswego,SUNY Police - Oswego,2017,12,6085dbe24d36b6325a403d3b,170
+Otsego,Cooperstown Vg PD,2017,12,6085dbe24d36b6325a403d3c,10
+Otsego,Oneonta City PD,2017,12,6085dbe24d36b6325a403d3e,522
+Otsego,Otsego County Sheriff,2017,12,6085dbe24d36b6325a403d3f,164
+Otsego,Otsego County State Police,2017,12,6085dbe24d36b6325a403d40,656
+Otsego,SUNY Police - Oneonta,2017,12,6085dbe24d36b6325a403d41,116
+Putnam,Brewster Vg PD,2017,12,6085dbe24d36b6325a403d42,34
+Putnam,Carmel Town PD,2017,12,6085dbe24d36b6325a403d43,268
+Putnam,Kent Town PD,2017,12,6085dbe24d36b6325a403d45,126
+Putnam,Putnam County MTA,2017,12,6085dbe24d36b6325a403d46,10
+Putnam,Putnam County Park PD,2017,12,6085dbe24d36b6325a403d47,10
+Putnam,Putnam County Sheriff,2017,12,6085dbe24d36b6325a403d48,566
+Putnam,Putnam County State Police,2017,12,6085dbe24d36b6325a403d49,242
+Queens,County Total,2017,12,6085dbe24d36b6325a403d4a,65720
+Rensselaer,East Greenbush Town PD,2017,12,6085dbe24d36b6325a403d4c,684
+Rensselaer,Hoosick Falls Vg PD,2017,12,6085dbe24d36b6325a403d4d,84
+Rensselaer,Nassau Vg PD,2017,12,6085dbe24d36b6325a403d4e,12
+Rensselaer,North Greenbush Town PD,2017,12,6085dbe24d36b6325a403d4f,320
+Rensselaer,Rensselaer City PD,2017,12,6085dbe24d36b6325a403d50,260
+Rensselaer,Rensselaer County Park PD,2017,12,6085dbe24d36b6325a403d51,4
+Rensselaer,Rensselaer County Sheriff,2017,12,6085dbe24d36b6325a403d52,440
+Rensselaer,Rensselaer County State Police,2017,12,6085dbe24d36b6325a403d53,858
+Rensselaer,Rensselaer Poly Tech Police,2017,12,6085dbe24d36b6325a403d54,106
+Rensselaer,Schodack Town PD,2017,12,6085dbe24d36b6325a403d55,102
+Rensselaer,Troy City PD,2017,12,6085dbe24d36b6325a403d56,4166
+Richmond,County Total,2017,12,6085dbe24d36b6325a403d57,11938
+Rockland,Clarkstown Town PD,2017,12,6085dbe24d36b6325a403d58,2434
+Rockland,Haverstraw Town PD,2017,12,6085dbe24d36b6325a403d5a,680
+Rockland,Orangetown Town PD,2017,12,6085dbe24d36b6325a403d5b,698
+Rockland,Piermont Vg PD,2017,12,6085dbe24d36b6325a403d5c,24
+Rockland,Ramapo Town PD,2017,12,6085dbe24d36b6325a403d5d,1474
+Rockland,Rockland County MTA,2017,12,6085dbe24d36b6325a403d5e,2
+Rockland,Rockland County Park PD,2017,12,6085dbe24d36b6325a403d5f,8
+Rockland,Rockland County Sheriff,2017,12,6085dbe24d36b6325a403d60,30
+Rockland,Rockland County State Police,2017,12,6085dbe24d36b6325a403d61,60
+Rockland,South Nyack-Grand View PD,2017,12,6085dbe24d36b6325a403d62,36
+Rockland,Spring Valley Vg PD,2017,12,6085dbe24d36b6325a403d63,1048
+Rockland,Stony Point Town PD,2017,12,6085dbe24d36b6325a403d64,170
+Rockland,Suffern Vg PD,2017,12,6085dbe24d36b6325a403d65,146
+Saratoga,Ballston Spa Vg PD,2017,12,6085dbe24d36b6325a403d66,98
+Saratoga,Mechanicville City PD,2017,12,6085dbe24d36b6325a403d68,136
+Saratoga,Saratoga County Park PD,2017,12,6085dbe24d36b6325a403d69,40
+Saratoga,Saratoga County Sheriff,2017,12,6085dbe24d36b6325a403d6a,2424
+Saratoga,Saratoga County State Police,2017,12,6085dbe24d36b6325a403d6b,1546
+Saratoga,Saratoga Springs City PD,2017,12,6085dbe24d36b6325a403d6c,1030
+Saratoga,South Glens Falls Vg PD,2017,12,6085dbe24d36b6325a403d6d,160
+Saratoga,Stillwater Town PD,2017,12,6085dbe24d36b6325a403d6e,66
+Saratoga,Waterford Town and Vg PD,2017,12,6085dbe24d36b6325a403d6f,92
+Schenectady,Glenville Town PD,2017,12,6085dbe24d36b6325a403d71,964
+Schenectady,Niskayuna Town PD,2017,12,6085dbe24d36b6325a403d72,856
+Schenectady,Rotterdam Town PD,2017,12,6085dbe24d36b6325a403d73,1720
+Schenectady,Schenectady City PD,2017,12,6085dbe24d36b6325a403d74,5290
+Schenectady,Schenectady County Sheriff,2017,12,6085dbe24d36b6325a403d75,32
+Schenectady,Schenectady County State Police,2017,12,6085dbe24d36b6325a403d76,108
+Schenectady,Scotia Vg PD,2017,12,6085dbe24d36b6325a403d77,232
+Schoharie,Cobleskill Vg PD,2017,12,6085dbe24d36b6325a403d78,236
+Schoharie,Schoharie County Sheriff,2017,12,6085dbe24d36b6325a403d7a,60
+Schoharie,Schoharie County State Police,2017,12,6085dbe24d36b6325a403d7b,278
+Schoharie,SUNY Police - Cobleskill,2017,12,6085dbe24d36b6325a403d7c,54
+Schuyler,Schuyler County Sheriff,2017,12,6085dbe24d36b6325a403d7e,44
+Schuyler,Schuyler County State Police,2017,12,6085dbe24d36b6325a403d7f,56
+Schuyler,Watkins Glen Vg PD,2017,12,6085dbe24d36b6325a403d80,40
+Seneca,Interlaken Vg PD,2017,12,6085dbe24d36b6325a403d82,4
+Seneca,Seneca County Park PD,2017,12,6085dbe24d36b6325a403d83,12
+Seneca,Seneca County Sheriff,2017,12,6085dbe24d36b6325a403d84,64
+Seneca,Seneca County State Police,2017,12,6085dbe24d36b6325a403d85,388
+Seneca,Seneca Falls Town PD,2017,12,6085dbe24d36b6325a403d86,512
+Seneca,Waterloo Vg PD,2017,12,6085dbe24d36b6325a403d87,162
+Steuben,Addison Vg PD,2017,12,6085dbe24d36b6325a403d88,36
+Steuben,Bath Vg PD,2017,12,6085dbe24d36b6325a403d89,374
+Steuben,Canisteo Vg PD,2017,12,6085dbe24d36b6325a403d8a,16
+Steuben,Cohocton Town PD,2017,12,6085dbe24d36b6325a403d8b,12
+Steuben,Corning City PD,2017,12,6085dbe24d36b6325a403d8c,610
+Steuben,Hammondsport Vg PD,2017,12,6085dbe24d36b6325a403d8e,18
+Steuben,Hornell City PD,2017,12,6085dbe24d36b6325a403d8f,208
+Steuben,Painted Post Vg PD,2017,12,6085dbe24d36b6325a403d90,48
+Steuben,Steuben County Sheriff,2017,12,6085dbe24d36b6325a403d91,234
+Steuben,Steuben County State Police,2017,12,6085dbe24d36b6325a403d92,972
+Steuben,Wayland Vg PD,2017,12,6085dbe24d36b6325a403d93,8
+St Lawrence,Canton Vg PD,2017,12,6085dbe24d36b6325a403d94,46
+St Lawrence,Massena Vg PD,2017,12,6085dbe24d36b6325a403d96,816
+St Lawrence,Norfolk Town PD,2017,12,6085dbe24d36b6325a403d97,2
+St Lawrence,Norwood Vg PD,2017,12,6085dbe24d36b6325a403d98,16
+St Lawrence,Ogdensburg City PD,2017,12,6085dbe24d36b6325a403d99,820
+St Lawrence,Potsdam Vg PD,2017,12,6085dbe24d36b6325a403d9a,200
+St Lawrence,St Lawrence County Park PD,2017,12,6085dbe24d36b6325a403d9b,8
+St Lawrence,St Lawrence County Sheriff,2017,12,6085dbe24d36b6325a403d9c,92
+St Lawrence,St Lawrence County State Police,2017,12,6085dbe24d36b6325a403d9d,864
+St Lawrence,SUNY Police - Canton,2017,12,6085dbe24d36b6325a403d9e,54
+St Lawrence,SUNY Police - Potsdam,2017,12,6085dbe24d36b6325a403d9f,106
+Suffolk,Amityville Vg PD,2017,12,6085dbe24d36b6325a403da0,274
+Suffolk,Asharoken Vg PD,2017,12,6085dbe24d36b6325a403da1,4
+Suffolk,East Hampton Town PD,2017,12,6085dbe24d36b6325a403da3,518
+Suffolk,East Hampton Vg PD,2017,12,6085dbe24d36b6325a403da4,100
+Suffolk,Huntington Bay Vg PD,2017,12,6085dbe24d36b6325a403da5,12
+Suffolk,Lloyd Harbor Vg PD,2017,12,6085dbe24d36b6325a403da6,22
+Suffolk,Nissequogue Vg PD,2017,12,6085dbe24d36b6325a403da7,14
+Suffolk,Northport Vg PD,2017,12,6085dbe24d36b6325a403da8,92
+Suffolk,Ocean Beach Vg PD,2017,12,6085dbe24d36b6325a403da9,16
+Suffolk,Quogue Vg PD,2017,12,6085dbe24d36b6325a403daa,50
+Suffolk,Riverhead Town PD,2017,12,6085dbe24d36b6325a403dab,1806
+Suffolk,Shelter Island Town PD,2017,10,6085dbe24d36b6325a403dac,36
+Suffolk,Southampton Town PD,2017,12,6085dbe24d36b6325a403dad,1350
+Suffolk,Southampton Vg PD,2017,12,6085dbe24d36b6325a403dae,172
+Suffolk,Southold Town PD,2017,12,6085dbe24d36b6325a403daf,464
+Suffolk,Suffolk County MTA,2017,12,6085dbe24d36b6325a403db0,110
+Suffolk,Suffolk County Park PD,2017,12,6085dbe24d36b6325a403db1,66
+Suffolk,Suffolk County PD,2017,12,6085dbe24d36b6325a403db2,36956
+Suffolk,Suffolk County Sheriff,2017,12,6085dbe24d36b6325a403db3,82
+Suffolk,Suffolk County State Police,2017,12,6085dbe24d36b6325a403db4,132
+Suffolk,SUNY Police - Farmingdale,2017,12,6085dbe24d36b6325a403db5,74
+Suffolk,SUNY Police - Stony Brook,2017,12,6085dbe24d36b6325a403db6,498
+Suffolk,Westhampton Beach Vg PD,2017,12,6085dbe24d36b6325a403db7,76
+Sullivan,Fallsburg Town PD,2017,12,6085dbe24d36b6325a403db9,242
+Sullivan,Liberty Vg PD,2017,12,6085dbe24d36b6325a403dba,332
+Sullivan,Monticello Vg PD,2017,12,6085dbe24d36b6325a403dbb,434
+Sullivan,NYC-DEPP - Grahamsville PCT,2017,12,6085dbe24d36b6325a403dbc,8
+Sullivan,Sullivan County Sheriff,2017,12,6085dbe24d36b6325a403dbd,634
+Sullivan,Sullivan County State Police,2017,12,6085dbe24d36b6325a403dbe,882
+Sullivan,Woodridge Vg PD,2017,12,6085dbe24d36b6325a403dbf,32
+Tioga,Owego Vg PD,2017,12,6085dbe24d36b6325a403dc1,328
+Tioga,Tioga County Sheriff,2017,12,6085dbe24d36b6325a403dc2,336
+Tioga,Tioga County State Police,2017,12,6085dbe24d36b6325a403dc3,196
+Tioga,Waverly Vg PD,2017,12,6085dbe24d36b6325a403dc4,46
+Tompkins,Cayuga Heights Vg PD,2017,12,6085dbe24d36b6325a403dc5,54
+Tompkins,Cornell University Police,2017,12,6085dbe24d36b6325a403dc6,570
+Tompkins,Dryden Vg PD,2017,12,6085dbe24d36b6325a403dc8,140
+Tompkins,Groton Vg PD,2017,12,6085dbe24d36b6325a403dc9,84
+Tompkins,Ithaca City PD,2017,10,6085dbe24d36b6325a403dca,1960
+Tompkins,Ithaca College PD,2017,12,6085dbe24d36b6325a403dcb,172
+Tompkins,Tompkins County Park PD,2017,12,6085dbe24d36b6325a403dcc,22
+Tompkins,Tompkins County Sheriff,2017,12,6085dbe24d36b6325a403dcd,100
+Tompkins,Tompkins County State Police,2017,12,6085dbe24d36b6325a403dce,760
+Tompkins,Trumansburg Vg PD,2017,12,6085dbe24d36b6325a403dcf,72
+Ulster,Ellenville Vg PD,2017,12,6085dbe24d36b6325a403dd1,308
+Ulster,Kingston City PD,2017,12,6085dbe24d36b6325a403dd2,1044
+Ulster,Lloyd Town PD,2017,12,6085dbe24d36b6325a403dd3,212
+Ulster,Marlborough Town PD,2017,12,6085dbe24d36b6325a403dd4,120
+Ulster,New Paltz Town and Vg PD,2017,12,6085dbe24d36b6325a403dd5,374
+Ulster,NYC DEPP - Ashokan PCT,2017,12,6085dbe24d36b6325a403dd6,2
+Ulster,Olive Town PD,2017,12,6085dbe24d36b6325a403dd7,14
+Ulster,Plattekill Town PD,2017,12,6085dbe24d36b6325a403dd8,124
+Ulster,Rosendale Town PD,2017,12,6085dbe24d36b6325a403dd9,60
+Ulster,Saugerties Town PD,2017,12,6085dbe24d36b6325a403dda,520
+Ulster,Shandaken Town PD,2017,12,6085dbe24d36b6325a403ddb,64
+Ulster,Shawangunk Town PD,2017,12,6085dbe24d36b6325a403ddc,160
+Ulster,SUNY Police - New Paltz,2017,12,6085dbe24d36b6325a403ddd,60
+Ulster,Ulster County Sheriff,2017,12,6085dbe24d36b6325a403dde,442
+Ulster,Ulster County State Police,2017,12,6085dbe24d36b6325a403ddf,812
+Ulster,Ulster Town PD,2017,12,6085dbe24d36b6325a403de0,700
+Ulster,Woodstock Town PD,2017,12,6085dbe24d36b6325a403de1,128
+Warren,Bolton Town PD,2017,12,6085dbe24d36b6325a403de2,14
+Warren,Glens Falls City PD,2017,12,6085dbe24d36b6325a403de4,438
+Warren,Warren County Sheriff,2017,12,6085dbe24d36b6325a403de5,1156
+Warren,Warren County State Police,2017,12,6085dbe24d36b6325a403de6,550
+Washington,Cambridge Vg PD,2017,12,6085dbe24d36b6325a403de7,34
+Washington,Fort Edward Vg PD,2017,12,6085dbe24d36b6325a403de9,46
+Washington,Granville Vg PD,2017,12,6085dbe24d36b6325a403dea,34
+Washington,Greenwich Vg PD,2017,12,6085dbe24d36b6325a403deb,50
+Washington,Hudson Falls Vg PD,2017,12,6085dbe24d36b6325a403dec,142
+Washington,Washington County Sheriff,2017,12,6085dbe24d36b6325a403ded,420
+Washington,Washington County State Police,2017,12,6085dbe24d36b6325a403dee,290
+Wayne,Clyde Vg PD,2017,12,6085dbe24d36b6325a403def,84
+Wayne,Macedon Town and Vg PD,2017,12,6085dbe24d36b6325a403df1,264
+Wayne,Newark Vg PD,2017,12,6085dbe24d36b6325a403df2,528
+Wayne,Palmyra Vg PD,2017,12,6085dbe24d36b6325a403df3,24
+Wayne,Sodus Vg PD,2017,12,6085dbe24d36b6325a403df4,10
+Wayne,Wayne County Sheriff,2017,12,6085dbe24d36b6325a403df5,1060
+Wayne,Wayne County State Police,2017,12,6085dbe24d36b6325a403df6,1008
+Wayne,Wolcott Vg PD,2017,12,6085dbe24d36b6325a403df7,10
+Westchester,Ardsley Vg PD,2017,12,6085dbe24d36b6325a403df8,74
+Westchester,Bedford Town PD,2017,12,6085dbe24d36b6325a403df9,84
+Westchester,Briarcliff Manor Vg PD,2017,12,6085dbe24d36b6325a403dfa,44
+Westchester,Bronxville Vg PD,2017,12,6085dbe24d36b6325a403dfb,58
+Westchester,Buchanan Vg PD,2017,12,6085dbe24d36b6325a403dfc,4
+Westchester,Croton-On-Hudson Vg PD,2017,12,6085dbe24d36b6325a403dfe,84
+Westchester,Dobbs Ferry Vg PD,2017,12,6085dbe24d36b6325a403dff,186
+Westchester,Eastchester Town PD,2017,12,6085dbe24d36b6325a403e00,352
+Westchester,Elmsford Vg PD,2017,12,6085dbe24d36b6325a403e01,38
+Westchester,Greenburgh Town PD,2017,12,6085dbe24d36b6325a403e02,1328
+Westchester,Harrison Town PD,2017,12,6085dbe24d36b6325a403e03,238
+Westchester,Hastings-on-Hudson Vg PD,2017,12,6085dbe24d36b6325a403e04,138
+Westchester,Irvington Vg PD,2017,12,6085dbe24d36b6325a403e05,38
+Westchester,Larchmont Vg PD,2017,12,6085dbe24d36b6325a403e06,212
+Westchester,Lewisboro Town PD,2017,12,6085dbe24d36b6325a403e07,2
+Westchester,Mamaroneck Town PD,2017,12,6085dbe24d36b6325a403e08,122
+Westchester,Mamaroneck Vg PD,2017,12,6085dbe24d36b6325a403e09,300
+Westchester,Mount Pleasant Town PD,2017,8,6085dbe24d36b6325a403e0a,268
+Westchester,Mount Vernon City PD,2017,12,6085dbe24d36b6325a403e0b,3466
+Westchester,New Castle Town PD,2017,12,6085dbe24d36b6325a403e0c,100
+Westchester,New Rochelle City PD,2017,12,6085dbe24d36b6325a403e0d,2664
+Westchester,North Castle Town PD,2017,12,6085dbe24d36b6325a403e0e,120
+Westchester,Ossining Vg PD,2017,12,6085dbe24d36b6325a403e0f,530
+Westchester,Peekskill City PD,2017,12,6085dbe24d36b6325a403e10,426
+Westchester,Pelham Manor Vg PD,2017,12,6085dbe24d36b6325a403e11,332
+Westchester,Pelham Vg PD,2017,12,6085dbe24d36b6325a403e12,160
+Westchester,Pleasantville Vg PD,2017,12,6085dbe24d36b6325a403e13,102
+Westchester,Port Chester Vg PD,2017,12,6085dbe24d36b6325a403e14,742
+Westchester,Pound Ridge Town PD,2017,12,6085dbe24d36b6325a403e15,78
+Westchester,Rye Brook Vg PD,2017,12,6085dbe24d36b6325a403e16,184
+Westchester,Rye City PD,2017,12,6085dbe24d36b6325a403e17,156
+Westchester,Scarsdale Vg PD,2017,12,6085dbe24d36b6325a403e18,268
+Westchester,Sleepy Hollow Vg PD,2017,12,6085dbe24d36b6325a403e19,2
+Westchester,SUNY Police - Purchase,2017,12,6085dbe24d36b6325a403e1a,76
+Westchester,Tarrytown Vg PD,2017,12,6085dbe24d36b6325a403e1b,116
+Westchester,Tuckahoe Vg PD,2017,12,6085dbe24d36b6325a403e1c,70
+Westchester,Westchester Co Dept Pub Safety,2017,12,6085dbe24d36b6325a403e1d,586
+Westchester,Westchester County MTA,2017,12,6085dbe24d36b6325a403e1e,178
+Westchester,Westchester County Park PD,2017,12,6085dbe24d36b6325a403e1f,20
+Westchester,Westchester County State Police,2017,12,6085dbe24d36b6325a403e20,910
+Westchester,White Plains City PD,2017,12,6085dbe24d36b6325a403e21,2180
+Westchester,Yonkers City PD,2017,12,6085dbe24d36b6325a403e22,5666
+Westchester,Yorktown Town PD,2017,12,6085dbe24d36b6325a403e23,458
+Wyoming,Arcade Vg PD,2017,12,6085dbe24d36b6325a403e24,44
+Wyoming,Attica Vg PD,2017,12,6085dbe24d36b6325a403e25,18
+Wyoming,Perry Vg PD,2017,12,6085dbe24d36b6325a403e27,126
+Wyoming,Warsaw Vg PD,2017,12,6085dbe24d36b6325a403e28,80
+Wyoming,Wyoming County Park PD,2017,12,6085dbe24d36b6325a403e29,4
+Wyoming,Wyoming County Sheriff,2017,12,6085dbe24d36b6325a403e2a,328
+Wyoming,Wyoming County State Police,2017,12,6085dbe24d36b6325a403e2b,92
+Yates,Penn Yan Vg PD,2017,12,6085dbe24d36b6325a403e2d,122
+Yates,Yates County Park PD,2017,12,6085dbe24d36b6325a403e2e,4
+Yates,Yates County Sheriff,2017,12,6085dbe24d36b6325a403e2f,348
+Yates,Yates County State Police,2017,12,6085dbe24d36b6325a403e30,44
